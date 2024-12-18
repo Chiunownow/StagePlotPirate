@@ -1,0 +1,38 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/electric.png",
+    "w": 29,
+    "h": 42,
+    "title": "electric"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/electric240UK.png",
+    "w": 41,
+    "h": 44,
+    "title": "electric240UK"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/electric240UK4.png",
+    "w": 41,
+    "h": 44,
+    "title": "electric240UK4"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/electric4.png",
+    "w": 32,
+    "h": 42,
+    "title": "electric4"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/euro.png",
+    "w": 35,
+    "h": 30,
+    "title": "euro"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/power/euro4.png",
+    "w": 33,
+    "h": 43,
+    "title": "euro4"
+  }
+]</mxlibrary>

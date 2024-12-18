@@ -1,0 +1,392 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/Bassdrum.png",
+    "w": 54,
+    "h": 55,
+    "title": "Bassdrum"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumB.png",
+    "w": 59,
+    "h": 41,
+    "title": "BassdrumB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumL.png",
+    "w": 55,
+    "h": 63,
+    "title": "BassdrumL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumLA.png",
+    "w": 60,
+    "h": 60,
+    "title": "BassdrumLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumLB.png",
+    "w": 60,
+    "h": 57,
+    "title": "BassdrumLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumR.png",
+    "w": 55,
+    "h": 63,
+    "title": "BassdrumR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumRA.png",
+    "w": 60,
+    "h": 60,
+    "title": "BassdrumRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/BassdrumRB.png",
+    "w": 60,
+    "h": 57,
+    "title": "BassdrumRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/Cowbell.png",
+    "w": 40,
+    "h": 37,
+    "title": "Cowbell"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/DrummerAfrican.png",
+    "w": 60,
+    "h": 87,
+    "title": "DrummerAfrican"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/DrummerAfricanL.png",
+    "w": 82,
+    "h": 69,
+    "title": "DrummerAfricanL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/DrummerAfricanLA.png",
+    "w": 75,
+    "h": 88,
+    "title": "DrummerAfricanLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/DrummerAfricanR.png",
+    "w": 75,
+    "h": 75,
+    "title": "DrummerAfricanR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/DrummerAfricanRA.png",
+    "w": 68,
+    "h": 79,
+    "title": "DrummerAfricanRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/FourToms.png",
+    "w": 185,
+    "h": 122,
+    "title": "FourToms"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/FourTomsL.png",
+    "w": 122,
+    "h": 185,
+    "title": "FourTomsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/FourTomsLA.png",
+    "w": 140,
+    "h": 157,
+    "title": "FourTomsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/FourTomsR.png",
+    "w": 117,
+    "h": 189,
+    "title": "FourTomsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/FourTomsRA.png",
+    "w": 180,
+    "h": 131,
+    "title": "FourTomsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeToms.png",
+    "w": 198,
+    "h": 122,
+    "title": "ThreeToms"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeTomsL.png",
+    "w": 125,
+    "h": 207,
+    "title": "ThreeTomsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeTomsLA.png",
+    "w": 194,
+    "h": 131,
+    "title": "ThreeTomsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeTomsR.png",
+    "w": 125,
+    "h": 189,
+    "title": "ThreeTomsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeTomsRA.png",
+    "w": 162,
+    "h": 152,
+    "title": "ThreeTomsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/TwoToms.png",
+    "w": 171,
+    "h": 110,
+    "title": "TwoToms"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/TwoTomsL.png",
+    "w": 105,
+    "h": 158,
+    "title": "TwoTomsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/TwoTomsLA.png",
+    "w": 140,
+    "h": 155,
+    "title": "TwoTomsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/TwoTomsR.png",
+    "w": 112,
+    "h": 180,
+    "title": "TwoTomsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/TwoTomsRA.png",
+    "w": 182,
+    "h": 132,
+    "title": "TwoTomsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/crash.png",
+    "w": 62,
+    "h": 66,
+    "title": "crash"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/cymbal.png",
+    "w": 46,
+    "h": 63,
+    "title": "cymbal"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/cymbalLA.png",
+    "w": 42,
+    "h": 63,
+    "title": "cymbalLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/cymbalRA.png",
+    "w": 42,
+    "h": 63,
+    "title": "cymbalRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/doublekick.png",
+    "w": 189,
+    "h": 143,
+    "title": "doublekick"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/doublekickL.png",
+    "w": 143,
+    "h": 203,
+    "title": "doublekickL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/doublekickLA.png",
+    "w": 203,
+    "h": 158,
+    "title": "doublekickLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/doublekickR.png",
+    "w": 133,
+    "h": 203,
+    "title": "doublekickR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/doublekickRA.png",
+    "w": 151,
+    "h": 185,
+    "title": "doublekickRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummat.png",
+    "w": 152,
+    "h": 129,
+    "title": "drummat"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummer.png",
+    "w": 59,
+    "h": 72,
+    "title": "drummer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummerL.png",
+    "w": 72,
+    "h": 59,
+    "title": "drummerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummerLA.png",
+    "w": 54,
+    "h": 74,
+    "title": "drummerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummerR.png",
+    "w": 72,
+    "h": 63,
+    "title": "drummerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummerRA.png",
+    "w": 69,
+    "h": 63,
+    "title": "drummerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drumshield_one.png",
+    "w": 192,
+    "h": 157,
+    "title": "drumshield_one"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drumshield_three.png",
+    "w": 192,
+    "h": 115,
+    "title": "drumshield_three"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drumshield_two.png",
+    "w": 200,
+    "h": 132,
+    "title": "drumshield_two"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/edrums.png",
+    "w": 161,
+    "h": 110,
+    "title": "edrums"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/edrumsL.png",
+    "w": 105,
+    "h": 154,
+    "title": "edrumsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/edrumsLA.png",
+    "w": 156,
+    "h": 140,
+    "title": "edrumsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/edrumsR.png",
+    "w": 110,
+    "h": 171,
+    "title": "edrumsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/edrumsRA.png",
+    "w": 164,
+    "h": 130,
+    "title": "edrumsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/floortom.png",
+    "w": 49,
+    "h": 63,
+    "title": "floortom"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/hihat.png",
+    "w": 48,
+    "h": 56,
+    "title": "hihat"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/kick.png",
+    "w": 77,
+    "h": 71,
+    "title": "kick"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ride.png",
+    "w": 68,
+    "h": 98,
+    "title": "ride"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/rototomset.png",
+    "w": 198,
+    "h": 157,
+    "title": "rototomset"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/rototomsetL.png",
+    "w": 189,
+    "h": 230,
+    "title": "rototomsetL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/rototomsetLA.png",
+    "w": 185,
+    "h": 158,
+    "title": "rototomsetLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/rototomsetR.png",
+    "w": 177,
+    "h": 225,
+    "title": "rototomsetR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/rototomsetRA.png",
+    "w": 200,
+    "h": 185,
+    "title": "rototomsetRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/snare.png",
+    "w": 43,
+    "h": 59,
+    "title": "snare"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/throne.png",
+    "w": 45,
+    "h": 52,
+    "title": "throne"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/tom1.png",
+    "w": 50,
+    "h": 48,
+    "title": "tom1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/tom2.png",
+    "w": 53,
+    "h": 55,
+    "title": "tom2"
+  }
+]</mxlibrary>

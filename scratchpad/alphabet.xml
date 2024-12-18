@@ -1,0 +1,326 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/A.png",
+    "w": 28,
+    "h": 28,
+    "title": "A"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/AX.png",
+    "w": 28,
+    "h": 28,
+    "title": "AX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/B.png",
+    "w": 28,
+    "h": 28,
+    "title": "B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/B0.png",
+    "w": 12,
+    "h": 12,
+    "title": "B0"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/BX.png",
+    "w": 28,
+    "h": 28,
+    "title": "BX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/C.png",
+    "w": 28,
+    "h": 28,
+    "title": "C"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/CX.png",
+    "w": 28,
+    "h": 28,
+    "title": "CX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/DX.png",
+    "w": 28,
+    "h": 28,
+    "title": "DX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/Drum.png",
+    "w": 28,
+    "h": 28,
+    "title": "Drum"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/E.png",
+    "w": 28,
+    "h": 28,
+    "title": "E"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/EX.png",
+    "w": 28,
+    "h": 28,
+    "title": "EX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/F.png",
+    "w": 28,
+    "h": 28,
+    "title": "F"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/FX.png",
+    "w": 28,
+    "h": 28,
+    "title": "FX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/G.png",
+    "w": 28,
+    "h": 28,
+    "title": "G"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/GX.png",
+    "w": 28,
+    "h": 28,
+    "title": "GX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/H.png",
+    "w": 28,
+    "h": 28,
+    "title": "H"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/HX.png",
+    "w": 28,
+    "h": 28,
+    "title": "HX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/I.png",
+    "w": 28,
+    "h": 28,
+    "title": "I"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/IX.png",
+    "w": 28,
+    "h": 28,
+    "title": "IX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/J.png",
+    "w": 28,
+    "h": 28,
+    "title": "J"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/JX.png",
+    "w": 28,
+    "h": 28,
+    "title": "JX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/K.png",
+    "w": 28,
+    "h": 28,
+    "title": "K"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/KX.png",
+    "w": 28,
+    "h": 28,
+    "title": "KX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/L.png",
+    "w": 28,
+    "h": 28,
+    "title": "L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/LX.png",
+    "w": 28,
+    "h": 28,
+    "title": "LX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/M.png",
+    "w": 28,
+    "h": 28,
+    "title": "M"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/MX.png",
+    "w": 28,
+    "h": 28,
+    "title": "MX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/N.png",
+    "w": 28,
+    "h": 28,
+    "title": "N"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/NX.png",
+    "w": 28,
+    "h": 28,
+    "title": "NX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/O.png",
+    "w": 28,
+    "h": 28,
+    "title": "O"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/OX.png",
+    "w": 28,
+    "h": 28,
+    "title": "OX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/P.png",
+    "w": 28,
+    "h": 28,
+    "title": "P"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/PX.png",
+    "w": 28,
+    "h": 28,
+    "title": "PX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/Q.png",
+    "w": 28,
+    "h": 28,
+    "title": "Q"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/QX.png",
+    "w": 28,
+    "h": 28,
+    "title": "QX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/R.png",
+    "w": 28,
+    "h": 28,
+    "title": "R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/RX.png",
+    "w": 28,
+    "h": 28,
+    "title": "RX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/S.png",
+    "w": 28,
+    "h": 28,
+    "title": "S"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/SX.png",
+    "w": 28,
+    "h": 28,
+    "title": "SX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/T.png",
+    "w": 28,
+    "h": 28,
+    "title": "T"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/TX.png",
+    "w": 28,
+    "h": 28,
+    "title": "TX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/U.png",
+    "w": 28,
+    "h": 28,
+    "title": "U"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/UX.png",
+    "w": 28,
+    "h": 28,
+    "title": "UX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/V.png",
+    "w": 28,
+    "h": 28,
+    "title": "V"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/VX.png",
+    "w": 28,
+    "h": 28,
+    "title": "VX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/W.png",
+    "w": 28,
+    "h": 28,
+    "title": "W"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/WX.png",
+    "w": 28,
+    "h": 28,
+    "title": "WX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/X.png",
+    "w": 28,
+    "h": 28,
+    "title": "X"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/XX.png",
+    "w": 28,
+    "h": 28,
+    "title": "XX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/Y.png",
+    "w": 28,
+    "h": 28,
+    "title": "Y"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/YX.png",
+    "w": 28,
+    "h": 28,
+    "title": "YX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/Z.png",
+    "w": 28,
+    "h": 28,
+    "title": "Z"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/ZX.png",
+    "w": 28,
+    "h": 28,
+    "title": "ZX"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/alphabet/bee.png",
+    "w": 12,
+    "h": 12,
+    "title": "bee"
+  }
+]</mxlibrary>

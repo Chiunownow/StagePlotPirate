@@ -1,0 +1,50 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singer.png",
+    "w": 53,
+    "h": 80,
+    "title": "singer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerB.png",
+    "w": 56,
+    "h": 70,
+    "title": "singerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerL.png",
+    "w": 71,
+    "h": 65,
+    "title": "singerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerLA.png",
+    "w": 41,
+    "h": 80,
+    "title": "singerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerLB.png",
+    "w": 67,
+    "h": 55,
+    "title": "singerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerR.png",
+    "w": 66,
+    "h": 68,
+    "title": "singerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerRA.png",
+    "w": 63,
+    "h": 65,
+    "title": "singerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singerRB.png",
+    "w": 53,
+    "h": 80,
+    "title": "singerRB"
+  }
+]</mxlibrary>

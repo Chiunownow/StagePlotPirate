@@ -1,0 +1,626 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57.png",
+    "w": 55,
+    "h": 105,
+    "title": "Boom57"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57Back.png",
+    "w": 53,
+    "h": 80,
+    "title": "Boom57Back"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57BackLA.png",
+    "w": 78,
+    "h": 70,
+    "title": "Boom57BackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57BackRA.png",
+    "w": 70,
+    "h": 74,
+    "title": "Boom57BackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57L.png",
+    "w": 90,
+    "h": 55,
+    "title": "Boom57L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57LA.png",
+    "w": 85,
+    "h": 88,
+    "title": "Boom57LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57R.png",
+    "w": 95,
+    "h": 68,
+    "title": "Boom57R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Boom57RA.png",
+    "w": 90,
+    "h": 93,
+    "title": "Boom57RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshort.png",
+    "w": 41,
+    "h": 75,
+    "title": "BoomLshort"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortBack.png",
+    "w": 41,
+    "h": 64,
+    "title": "BoomLshortBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortBackLA.png",
+    "w": 65,
+    "h": 50,
+    "title": "BoomLshortBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortBackRA.png",
+    "w": 65,
+    "h": 51,
+    "title": "BoomLshortBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortL.png",
+    "w": 65,
+    "h": 51,
+    "title": "BoomLshortL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortLA.png",
+    "w": 63,
+    "h": 62,
+    "title": "BoomLshortLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortR.png",
+    "w": 65,
+    "h": 39,
+    "title": "BoomLshortR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortRA.png",
+    "w": 60,
+    "h": 56,
+    "title": "BoomLshortRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshort.png",
+    "w": 41,
+    "h": 75,
+    "title": "BoomRshort"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortBack.png",
+    "w": 41,
+    "h": 64,
+    "title": "BoomRshortBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortBackLA.png",
+    "w": 65,
+    "h": 51,
+    "title": "BoomRshortBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortBackRA.png",
+    "w": 65,
+    "h": 50,
+    "title": "BoomRshortBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortL.png",
+    "w": 65,
+    "h": 39,
+    "title": "BoomRshortL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortLA.png",
+    "w": 60,
+    "h": 56,
+    "title": "BoomRshortLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortR.png",
+    "w": 65,
+    "h": 51,
+    "title": "BoomRshortR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomRshortRA.png",
+    "w": 63,
+    "h": 62,
+    "title": "BoomRshortRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_Vocal.png",
+    "w": 28,
+    "h": 100,
+    "title": "Center_Vocal"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalBack.png",
+    "w": 28,
+    "h": 67,
+    "title": "Center_VocalBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalBackLA.png",
+    "w": 57,
+    "h": 54,
+    "title": "Center_VocalBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalBackRA.png",
+    "w": 57,
+    "h": 54,
+    "title": "Center_VocalBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalL.png",
+    "w": 77,
+    "h": 55,
+    "title": "Center_VocalL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalLA.png",
+    "w": 41,
+    "h": 94,
+    "title": "Center_VocalLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalR.png",
+    "w": 77,
+    "h": 55,
+    "title": "Center_VocalR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_VocalRA.png",
+    "w": 41,
+    "h": 94,
+    "title": "Center_VocalRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&Mstand.png",
+    "w": 50,
+    "h": 112,
+    "title": "K&Mstand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandB.png",
+    "w": 50,
+    "h": 86,
+    "title": "K&MstandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandL.png",
+    "w": 103,
+    "h": 70,
+    "title": "K&MstandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandLA.png",
+    "w": 52,
+    "h": 123,
+    "title": "K&MstandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandLB.png",
+    "w": 55,
+    "h": 82,
+    "title": "K&MstandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandR.png",
+    "w": 103,
+    "h": 70,
+    "title": "K&MstandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandRA.png",
+    "w": 59,
+    "h": 136,
+    "title": "K&MstandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&MstandRB.png",
+    "w": 50,
+    "h": 80,
+    "title": "K&MstandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_Instrument.png",
+    "w": 57,
+    "h": 125,
+    "title": "Left_Instrument"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentBack.png",
+    "w": 53,
+    "h": 100,
+    "title": "Left_InstrumentBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentBackLA.png",
+    "w": 100,
+    "h": 79,
+    "title": "Left_InstrumentBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentBackRA.png",
+    "w": 100,
+    "h": 79,
+    "title": "Left_InstrumentBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentL.png",
+    "w": 115,
+    "h": 73,
+    "title": "Left_InstrumentL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentLA.png",
+    "w": 100,
+    "h": 119,
+    "title": "Left_InstrumentLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentR.png",
+    "w": 108,
+    "h": 63,
+    "title": "Left_InstrumentR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_InstrumentRA.png",
+    "w": 110,
+    "h": 97,
+    "title": "Left_InstrumentRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_Vocal.png",
+    "w": 60,
+    "h": 132,
+    "title": "Left_Vocal"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalBack.png",
+    "w": 60,
+    "h": 114,
+    "title": "Left_VocalBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalBackLA.png",
+    "w": 116,
+    "h": 60,
+    "title": "Left_VocalBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalBackRA.png",
+    "w": 101,
+    "h": 75,
+    "title": "Left_VocalBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalL.png",
+    "w": 125,
+    "h": 60,
+    "title": "Left_VocalL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalLA.png",
+    "w": 115,
+    "h": 113,
+    "title": "Left_VocalLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalR.png",
+    "w": 125,
+    "h": 60,
+    "title": "Left_VocalR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_VocalRA.png",
+    "w": 125,
+    "h": 98,
+    "title": "Left_VocalRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87.png",
+    "w": 50,
+    "h": 111,
+    "title": "NeumannU87"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87B.png",
+    "w": 50,
+    "h": 79,
+    "title": "NeumannU87B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87L.png",
+    "w": 100,
+    "h": 60,
+    "title": "NeumannU87L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87LA.png",
+    "w": 66,
+    "h": 109,
+    "title": "NeumannU87LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87LB.png",
+    "w": 70,
+    "h": 68,
+    "title": "NeumannU87LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87R.png",
+    "w": 100,
+    "h": 62,
+    "title": "NeumannU87R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87RA.png",
+    "w": 57,
+    "h": 105,
+    "title": "NeumannU87RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/NeumannU87RB.png",
+    "w": 65,
+    "h": 75,
+    "title": "NeumannU87RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_Instrument.png",
+    "w": 55,
+    "h": 119,
+    "title": "Right_Instrument"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentBack.png",
+    "w": 55,
+    "h": 116,
+    "title": "Right_InstrumentBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentBackLA.png",
+    "w": 105,
+    "h": 73,
+    "title": "Right_InstrumentBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentBackRA.png",
+    "w": 105,
+    "h": 75,
+    "title": "Right_InstrumentBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentL.png",
+    "w": 120,
+    "h": 54,
+    "title": "Right_InstrumentL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentLA.png",
+    "w": 110,
+    "h": 112,
+    "title": "Right_InstrumentLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentR.png",
+    "w": 115,
+    "h": 64,
+    "title": "Right_InstrumentR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_InstrumentRA.png",
+    "w": 110,
+    "h": 95,
+    "title": "Right_InstrumentRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_Vocal.png",
+    "w": 60,
+    "h": 132,
+    "title": "Right_Vocal"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalBack.png",
+    "w": 60,
+    "h": 114,
+    "title": "Right_VocalBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalBackLA.png",
+    "w": 123,
+    "h": 65,
+    "title": "Right_VocalBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalBackRA.png",
+    "w": 109,
+    "h": 75,
+    "title": "Right_VocalBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalL.png",
+    "w": 130,
+    "h": 62,
+    "title": "Right_VocalL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalLA.png",
+    "w": 113,
+    "h": 89,
+    "title": "Right_VocalLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalR.png",
+    "w": 136,
+    "h": 73,
+    "title": "Right_VocalR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Right_VocalRA.png",
+    "w": 118,
+    "h": 97,
+    "title": "Right_VocalRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_Vocal.png",
+    "w": 28,
+    "h": 65,
+    "title": "Straight_Vocal"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_VocalL.png",
+    "w": 28,
+    "h": 53,
+    "title": "Straight_VocalL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_VocalLA.png",
+    "w": 28,
+    "h": 63,
+    "title": "Straight_VocalLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_VocalR.png",
+    "w": 28,
+    "h": 53,
+    "title": "Straight_VocalR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_VocalRA.png",
+    "w": 28,
+    "h": 63,
+    "title": "Straight_VocalRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_short.png",
+    "w": 28,
+    "h": 34,
+    "title": "Straight_short"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_shortBack.png",
+    "w": 28,
+    "h": 28,
+    "title": "Straight_shortBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_shortL.png",
+    "w": 28,
+    "h": 27,
+    "title": "Straight_shortL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_shortLA.png",
+    "w": 28,
+    "h": 33,
+    "title": "Straight_shortLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_shortR.png",
+    "w": 28,
+    "h": 27,
+    "title": "Straight_shortR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Straight_shortRA.png",
+    "w": 28,
+    "h": 33,
+    "title": "Straight_shortRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/drumoverhead.png",
+    "w": 46,
+    "h": 125,
+    "title": "drumoverhead"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/drumoverheadLA.png",
+    "w": 100,
+    "h": 80,
+    "title": "drumoverheadLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/drumoverheadRA.png",
+    "w": 100,
+    "h": 80,
+    "title": "drumoverheadRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overhead.png",
+    "w": 28,
+    "h": 96,
+    "title": "overhead"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadBack.png",
+    "w": 28,
+    "h": 58,
+    "title": "overheadBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadBackLA.png",
+    "w": 46,
+    "h": 56,
+    "title": "overheadBackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadBackRA.png",
+    "w": 46,
+    "h": 56,
+    "title": "overheadBackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadL.png",
+    "w": 60,
+    "h": 66,
+    "title": "overheadL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadLA.png",
+    "w": 46,
+    "h": 93,
+    "title": "overheadLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadR.png",
+    "w": 60,
+    "h": 66,
+    "title": "overheadR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/overheadRA.png",
+    "w": 46,
+    "h": 93,
+    "title": "overheadRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/stand_no-mic.png",
+    "w": 41,
+    "h": 58,
+    "title": "stand_no-mic"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/standstraight_no-mic.png",
+    "w": 41,
+    "h": 56,
+    "title": "standstraight_no-mic"
+  }
+]</mxlibrary>

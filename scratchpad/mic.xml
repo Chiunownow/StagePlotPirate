@@ -1,0 +1,56 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/clipon.png",
+    "w": 19,
+    "h": 50,
+    "title": "clipon"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/cliponRA.png",
+    "w": 19,
+    "h": 50,
+    "title": "cliponRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/headsetmic.png",
+    "w": 45,
+    "h": 37,
+    "title": "headsetmic"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/headsetmicL.png",
+    "w": 29,
+    "h": 45,
+    "title": "headsetmicL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/headsetmicLA.png",
+    "w": 45,
+    "h": 41,
+    "title": "headsetmicLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/headsetmicR.png",
+    "w": 34,
+    "h": 45,
+    "title": "headsetmicR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/headsetmicRA.png",
+    "w": 45,
+    "h": 44,
+    "title": "headsetmicRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/wired_mic.png",
+    "w": 68,
+    "h": 45,
+    "title": "wired_mic"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic/wireless_mic.png",
+    "w": 54,
+    "h": 38,
+    "title": "wireless_mic"
+  }
+]</mxlibrary>

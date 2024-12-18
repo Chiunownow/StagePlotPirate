@@ -1,0 +1,548 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassist.png",
+    "w": 62,
+    "h": 86,
+    "title": "AcuBassist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistB.png",
+    "w": 67,
+    "h": 91,
+    "title": "AcuBassistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistL.png",
+    "w": 78,
+    "h": 92,
+    "title": "AcuBassistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistLA.png",
+    "w": 69,
+    "h": 97,
+    "title": "AcuBassistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistLB.png",
+    "w": 76,
+    "h": 91,
+    "title": "AcuBassistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistR.png",
+    "w": 80,
+    "h": 80,
+    "title": "AcuBassistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistRA.png",
+    "w": 72,
+    "h": 91,
+    "title": "AcuBassistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/AcuBassistRB.png",
+    "w": 76,
+    "h": 86,
+    "title": "AcuBassistRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/BanjoRA.png",
+    "w": 135,
+    "h": 23,
+    "title": "BanjoRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/Dulcimer.png",
+    "w": 88,
+    "h": 51,
+    "title": "Dulcimer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/Lute.png",
+    "w": 36,
+    "h": 68,
+    "title": "Lute"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/LuteRA.png",
+    "w": 113,
+    "h": 25,
+    "title": "LuteRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/Oud.png",
+    "w": 37,
+    "h": 65,
+    "title": "Oud"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/OudRA.png",
+    "w": 90,
+    "h": 26,
+    "title": "OudRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/Sitar.png",
+    "w": 41,
+    "h": 95,
+    "title": "Sitar"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/SitarRA.png",
+    "w": 170,
+    "h": 62,
+    "title": "SitarRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/Ukulele.png",
+    "w": 30,
+    "h": 60,
+    "title": "Ukulele"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/UkuleleRA.png",
+    "w": 85,
+    "h": 25,
+    "title": "UkuleleRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhite.png",
+    "w": 70,
+    "h": 79,
+    "title": "acouwhite"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteB.png",
+    "w": 70,
+    "h": 79,
+    "title": "acouwhiteB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteL.png",
+    "w": 81,
+    "h": 95,
+    "title": "acouwhiteL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteLA.png",
+    "w": 75,
+    "h": 88,
+    "title": "acouwhiteLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteLB.png",
+    "w": 63,
+    "h": 96,
+    "title": "acouwhiteLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteR.png",
+    "w": 78,
+    "h": 93,
+    "title": "acouwhiteR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteRA.png",
+    "w": 65,
+    "h": 95,
+    "title": "acouwhiteRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/acouwhiteRB.png",
+    "w": 80,
+    "h": 78,
+    "title": "acouwhiteRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/azerisaz.png",
+    "w": 33,
+    "h": 75,
+    "title": "azerisaz"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/azerisazRA.png",
+    "w": 100,
+    "h": 23,
+    "title": "azerisazRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/balalaika.png",
+    "w": 50,
+    "h": 45,
+    "title": "balalaika"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/balalaikaRA.png",
+    "w": 130,
+    "h": 18,
+    "title": "balalaikaRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo.png",
+    "w": 39,
+    "h": 81,
+    "title": "banjo"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guy.png",
+    "w": 95,
+    "h": 71,
+    "title": "banjo_guy"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyB.png",
+    "w": 100,
+    "h": 53,
+    "title": "banjo_guyB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyL.png",
+    "w": 53,
+    "h": 101,
+    "title": "banjo_guyL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyLA.png",
+    "w": 76,
+    "h": 75,
+    "title": "banjo_guyLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyLB.png",
+    "w": 81,
+    "h": 85,
+    "title": "banjo_guyLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyR.png",
+    "w": 53,
+    "h": 87,
+    "title": "banjo_guyR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyRA.png",
+    "w": 82,
+    "h": 67,
+    "title": "banjo_guyRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/banjo_guyRB.png",
+    "w": 93,
+    "h": 59,
+    "title": "banjo_guyRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/bouzouki.png",
+    "w": 38,
+    "h": 95,
+    "title": "bouzouki"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/bouzoukiRA.png",
+    "w": 125,
+    "h": 33,
+    "title": "bouzoukiRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/charango.png",
+    "w": 27,
+    "h": 70,
+    "title": "charango"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/charangoRA.png",
+    "w": 100,
+    "h": 42,
+    "title": "charangoRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/citola.png",
+    "w": 29,
+    "h": 53,
+    "title": "citola"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/citolaRA.png",
+    "w": 88,
+    "h": 23,
+    "title": "citolaRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/cuatro.png",
+    "w": 46,
+    "h": 95,
+    "title": "cuatro"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/cuatroRA.png",
+    "w": 140,
+    "h": 57,
+    "title": "cuatroRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayer.png",
+    "w": 85,
+    "h": 96,
+    "title": "dulcimerplayer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerB.png",
+    "w": 88,
+    "h": 76,
+    "title": "dulcimerplayerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerL.png",
+    "w": 84,
+    "h": 72,
+    "title": "dulcimerplayerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerLA.png",
+    "w": 76,
+    "h": 95,
+    "title": "dulcimerplayerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerLB.png",
+    "w": 85,
+    "h": 83,
+    "title": "dulcimerplayerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerR.png",
+    "w": 83,
+    "h": 77,
+    "title": "dulcimerplayerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerRA.png",
+    "w": 79,
+    "h": 94,
+    "title": "dulcimerplayerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/dulcimerplayerRB.png",
+    "w": 88,
+    "h": 85,
+    "title": "dulcimerplayerRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/harp.png",
+    "w": 43,
+    "h": 117,
+    "title": "harp"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/harpL.png",
+    "w": 105,
+    "h": 59,
+    "title": "harpL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/harpLA.png",
+    "w": 77,
+    "h": 99,
+    "title": "harpLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/harpR.png",
+    "w": 105,
+    "h": 59,
+    "title": "harpR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/harpRA.png",
+    "w": 77,
+    "h": 99,
+    "title": "harpRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/kalimba.png",
+    "w": 32,
+    "h": 46,
+    "title": "kalimba"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/kalimbaL.png",
+    "w": 52,
+    "h": 32,
+    "title": "kalimbaL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/kalimbaLA.png",
+    "w": 52,
+    "h": 57,
+    "title": "kalimbaLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/kalimbaR.png",
+    "w": 52,
+    "h": 32,
+    "title": "kalimbaR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/kalimbaRA.png",
+    "w": 52,
+    "h": 57,
+    "title": "kalimbaRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/lapsteel.png",
+    "w": 97,
+    "h": 23,
+    "title": "lapsteel"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/lapsteelL.png",
+    "w": 24,
+    "h": 102,
+    "title": "lapsteelL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/lapsteelLA.png",
+    "w": 94,
+    "h": 61,
+    "title": "lapsteelLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/lapsteelR.png",
+    "w": 23,
+    "h": 102,
+    "title": "lapsteelR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/lapsteelRA.png",
+    "w": 94,
+    "h": 65,
+    "title": "lapsteelRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandolin.png",
+    "w": 38,
+    "h": 54,
+    "title": "mandolin"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandolinRA.png",
+    "w": 90,
+    "h": 22,
+    "title": "mandolinRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandoman.png",
+    "w": 77,
+    "h": 68,
+    "title": "mandoman"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanB.png",
+    "w": 74,
+    "h": 70,
+    "title": "mandomanB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanL.png",
+    "w": 54,
+    "h": 90,
+    "title": "mandomanL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanLA.png",
+    "w": 72,
+    "h": 78,
+    "title": "mandomanLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanLB.png",
+    "w": 62,
+    "h": 88,
+    "title": "mandomanLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanR.png",
+    "w": 54,
+    "h": 75,
+    "title": "mandomanR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanRA.png",
+    "w": 60,
+    "h": 84,
+    "title": "mandomanRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/mandomanRB.png",
+    "w": 77,
+    "h": 60,
+    "title": "mandomanRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/tumbi.png",
+    "w": 29,
+    "h": 75,
+    "title": "tumbi"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/tumbiRA.png",
+    "w": 122,
+    "h": 30,
+    "title": "tumbiRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfonia.png",
+    "w": 75,
+    "h": 42,
+    "title": "zinfonia"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayer.png",
+    "w": 65,
+    "h": 84,
+    "title": "zinfoniaplayer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerB.png",
+    "w": 70,
+    "h": 68,
+    "title": "zinfoniaplayerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerL.png",
+    "w": 75,
+    "h": 60,
+    "title": "zinfoniaplayerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerLA.png",
+    "w": 63,
+    "h": 87,
+    "title": "zinfoniaplayerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerLB.png",
+    "w": 70,
+    "h": 69,
+    "title": "zinfoniaplayerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerR.png",
+    "w": 72,
+    "h": 66,
+    "title": "zinfoniaplayerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerRA.png",
+    "w": 67,
+    "h": 83,
+    "title": "zinfoniaplayerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pluck/zinfoniaplayerRB.png",
+    "w": 65,
+    "h": 71,
+    "title": "zinfoniaplayerRB"
+  }
+]</mxlibrary>

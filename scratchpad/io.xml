@@ -1,0 +1,146 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/HDMI.png",
+    "w": 52,
+    "h": 26,
+    "title": "HDMI"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/NeumannU87suspended.png",
+    "w": 25,
+    "h": 360,
+    "title": "NeumannU87suspended"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/RGB.png",
+    "w": 50,
+    "h": 23,
+    "title": "RGB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/S-VID.png",
+    "w": 26,
+    "h": 34,
+    "title": "S-VID"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/VGA.png",
+    "w": 60,
+    "h": 31,
+    "title": "VGA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/XLR.png",
+    "w": 50,
+    "h": 25,
+    "title": "XLR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/XLRmale.png",
+    "w": 51,
+    "h": 24,
+    "title": "XLRmale"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/XLRmerge.png",
+    "w": 69,
+    "h": 49,
+    "title": "XLRmerge"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/XLRpowered.png",
+    "w": 86,
+    "h": 29,
+    "title": "XLRpowered"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/XLRsplitter.png",
+    "w": 60,
+    "h": 68,
+    "title": "XLRsplitter"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/doublefemaleXLR.png",
+    "w": 56,
+    "h": 51,
+    "title": "doublefemaleXLR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/doublemaleXLR.png",
+    "w": 55,
+    "h": 48,
+    "title": "doublemaleXLR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/femaleXLRtoquarter.png",
+    "w": 92,
+    "h": 63,
+    "title": "femaleXLRtoquarter"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/femaleXLRtoquartertrs.png",
+    "w": 94,
+    "h": 63,
+    "title": "femaleXLRtoquartertrs"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/maletodoublefemale.png",
+    "w": 72,
+    "h": 86,
+    "title": "maletodoublefemale"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/quartermale.png",
+    "w": 70,
+    "h": 38,
+    "title": "quartermale"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/quartermale_balanced.png",
+    "w": 70,
+    "h": 38,
+    "title": "quartermale_balanced"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/quartertomaleXLR.png",
+    "w": 80,
+    "h": 63,
+    "title": "quartertomaleXLR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/quartertrstomaleXLR.png",
+    "w": 98,
+    "h": 63,
+    "title": "quartertrstomaleXLR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/stagebox12.png",
+    "w": 30,
+    "h": 46,
+    "title": "stagebox12"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/stagebox16.png",
+    "w": 30,
+    "h": 52,
+    "title": "stagebox16"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/stagebox24.png",
+    "w": 40,
+    "h": 55,
+    "title": "stagebox24"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/stagebox8.png",
+    "w": 30,
+    "h": 35,
+    "title": "stagebox8"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/io/video.png",
+    "w": 32,
+    "h": 34,
+    "title": "video"
+  }
+]</mxlibrary>

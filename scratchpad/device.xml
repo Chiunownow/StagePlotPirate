@@ -1,0 +1,200 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/CDplayer.png",
+    "w": 90,
+    "h": 42,
+    "title": "CDplayer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/Compressor.png",
+    "w": 90,
+    "h": 27,
+    "title": "Compressor"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/DI.png",
+    "w": 29,
+    "h": 27,
+    "title": "DI"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/EQ.png",
+    "w": 90,
+    "h": 26,
+    "title": "EQ"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/Gates.png",
+    "w": 90,
+    "h": 23,
+    "title": "Gates"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/Laptop.png",
+    "w": 59,
+    "h": 37,
+    "title": "Laptop"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopL.png",
+    "w": 38,
+    "h": 59,
+    "title": "LaptopL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopLA.png",
+    "w": 68,
+    "h": 58,
+    "title": "LaptopLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopLB.png",
+    "w": 68,
+    "h": 63,
+    "title": "LaptopLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopR.png",
+    "w": 38,
+    "h": 59,
+    "title": "LaptopR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopRA.png",
+    "w": 68,
+    "h": 58,
+    "title": "LaptopRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopRB.png",
+    "w": 63,
+    "h": 59,
+    "title": "LaptopRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fan.png",
+    "w": 40,
+    "h": 34,
+    "title": "fan"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanB.png",
+    "w": 40,
+    "h": 44,
+    "title": "fanB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanL.png",
+    "w": 34,
+    "h": 42,
+    "title": "fanL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanLA.png",
+    "w": 42,
+    "h": 40,
+    "title": "fanLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanLB.png",
+    "w": 43,
+    "h": 50,
+    "title": "fanLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanR.png",
+    "w": 34,
+    "h": 42,
+    "title": "fanR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanRA.png",
+    "w": 42,
+    "h": 40,
+    "title": "fanRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/fanRB.png",
+    "w": 43,
+    "h": 50,
+    "title": "fanRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/ipad.png",
+    "w": 37,
+    "h": 30,
+    "title": "ipad"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/ipadLA.png",
+    "w": 35,
+    "h": 45,
+    "title": "ipadLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/ipadRA.png",
+    "w": 34,
+    "h": 45,
+    "title": "ipadRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/laptopB.png",
+    "w": 59,
+    "h": 41,
+    "title": "laptopB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mackie402.png",
+    "w": 30,
+    "h": 36,
+    "title": "mackie402"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mixer.png",
+    "w": 81,
+    "h": 56,
+    "title": "mixer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mixerL.png",
+    "w": 63,
+    "h": 79,
+    "title": "mixerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mixerLA.png",
+    "w": 92,
+    "h": 80,
+    "title": "mixerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mixerR.png",
+    "w": 63,
+    "h": 79,
+    "title": "mixerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/mixerRA.png",
+    "w": 92,
+    "h": 81,
+    "title": "mixerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/projector_stage.png",
+    "w": 65,
+    "h": 65,
+    "title": "projector_stage"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/sampler.png",
+    "w": 90,
+    "h": 25,
+    "title": "sampler"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/stereoDI.png",
+    "w": 35,
+    "h": 53,
+    "title": "stereoDI"
+  }
+]</mxlibrary>

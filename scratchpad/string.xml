@@ -1,0 +1,134 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/Violin.png",
+    "w": 68,
+    "h": 49,
+    "title": "Violin"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cellist.png",
+    "w": 76,
+    "h": 86,
+    "title": "cellist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cellistL.png",
+    "w": 75,
+    "h": 74,
+    "title": "cellistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cellistLA.png",
+    "w": 90,
+    "h": 89,
+    "title": "cellistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cellistR.png",
+    "w": 67,
+    "h": 71,
+    "title": "cellistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cellistRA.png",
+    "w": 70,
+    "h": 90,
+    "title": "cellistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/cello.png",
+    "w": 44,
+    "h": 81,
+    "title": "cello"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/flute.png",
+    "w": 99,
+    "h": 10,
+    "title": "flute"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/fluteL.png",
+    "w": 10,
+    "h": 104,
+    "title": "fluteL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/fluteLA.png",
+    "w": 94,
+    "h": 56,
+    "title": "fluteLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/fluteR.png",
+    "w": 10,
+    "h": 104,
+    "title": "fluteR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/fluteRA.png",
+    "w": 94,
+    "h": 56,
+    "title": "fluteRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/stringbass.png",
+    "w": 56,
+    "h": 99,
+    "title": "stringbass"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/viola.png",
+    "w": 52,
+    "h": 54,
+    "title": "viola"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinist.png",
+    "w": 95,
+    "h": 68,
+    "title": "violinist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistB.png",
+    "w": 95,
+    "h": 70,
+    "title": "violinistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistL.png",
+    "w": 60,
+    "h": 105,
+    "title": "violinistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistLA.png",
+    "w": 90,
+    "h": 78,
+    "title": "violinistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistLB.png",
+    "w": 60,
+    "h": 105,
+    "title": "violinistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistR.png",
+    "w": 66,
+    "h": 81,
+    "title": "violinistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistRA.png",
+    "w": 67,
+    "h": 75,
+    "title": "violinistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/string/violinistRB.png",
+    "w": 90,
+    "h": 64,
+    "title": "violinistRB"
+  }
+]</mxlibrary>

@@ -1,0 +1,320 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/Ampeg.png",
+    "w": 127,
+    "h": 60,
+    "title": "Ampeg"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/AmpegL.png",
+    "w": 70,
+    "h": 140,
+    "title": "AmpegL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/AmpegLA.png",
+    "w": 133,
+    "h": 119,
+    "title": "AmpegLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/AmpegR.png",
+    "w": 67,
+    "h": 140,
+    "title": "AmpegR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/AmpegRA.png",
+    "w": 133,
+    "h": 112,
+    "title": "AmpegRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmp.png",
+    "w": 52,
+    "h": 41,
+    "title": "BassAmp"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmpBack.png",
+    "w": 52,
+    "h": 41,
+    "title": "BassAmpBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmpL.png",
+    "w": 34,
+    "h": 61,
+    "title": "BassAmpL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmpLA.png",
+    "w": 59,
+    "h": 61,
+    "title": "BassAmpLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmpR.png",
+    "w": 34,
+    "h": 61,
+    "title": "BassAmpR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BassAmpRA.png",
+    "w": 59,
+    "h": 61,
+    "title": "BassAmpRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/Beguitarist.png",
+    "w": 112,
+    "h": 66,
+    "title": "Beguitarist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristB.png",
+    "w": 120,
+    "h": 70,
+    "title": "BeguitaristB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristL.png",
+    "w": 54,
+    "h": 120,
+    "title": "BeguitaristL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristLA.png",
+    "w": 110,
+    "h": 69,
+    "title": "BeguitaristLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristLB.png",
+    "w": 85,
+    "h": 103,
+    "title": "BeguitaristLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristR.png",
+    "w": 51,
+    "h": 110,
+    "title": "BeguitaristR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristRA.png",
+    "w": 90,
+    "h": 99,
+    "title": "BeguitaristRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BeguitaristRB.png",
+    "w": 115,
+    "h": 75,
+    "title": "BeguitaristRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BlondeBassman.png",
+    "w": 80,
+    "h": 53,
+    "title": "BlondeBassman"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BlondeBassmanL.png",
+    "w": 43,
+    "h": 90,
+    "title": "BlondeBassmanL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BlondeBassmanLA.png",
+    "w": 85,
+    "h": 85,
+    "title": "BlondeBassmanLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BlondeBassmanR.png",
+    "w": 44,
+    "h": 90,
+    "title": "BlondeBassmanR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/BlondeBassmanRA.png",
+    "w": 85,
+    "h": 82,
+    "title": "BlondeBassmanRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/P_Bass.png",
+    "w": 48,
+    "h": 72,
+    "title": "P_Bass"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/P_BassRA.png",
+    "w": 144,
+    "h": 28,
+    "title": "P_BassRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassist.png",
+    "w": 130,
+    "h": 65,
+    "title": "bassist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistB.png",
+    "w": 135,
+    "h": 48,
+    "title": "bassistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistL.png",
+    "w": 63,
+    "h": 126,
+    "title": "bassistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistLA.png",
+    "w": 100,
+    "h": 95,
+    "title": "bassistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistLB.png",
+    "w": 110,
+    "h": 100,
+    "title": "bassistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistR.png",
+    "w": 58,
+    "h": 123,
+    "title": "bassistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistRA.png",
+    "w": 95,
+    "h": 103,
+    "title": "bassistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/bassistRB.png",
+    "w": 125,
+    "h": 66,
+    "title": "bassistRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassist.png",
+    "w": 120,
+    "h": 73,
+    "title": "ebassist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistB.png",
+    "w": 120,
+    "h": 66,
+    "title": "ebassistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistL.png",
+    "w": 56,
+    "h": 130,
+    "title": "ebassistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistLA.png",
+    "w": 115,
+    "h": 75,
+    "title": "ebassistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistLB.png",
+    "w": 102,
+    "h": 116,
+    "title": "ebassistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistR.png",
+    "w": 54,
+    "h": 110,
+    "title": "ebassistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistRA.png",
+    "w": 92,
+    "h": 93,
+    "title": "ebassistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/ebassistRB.png",
+    "w": 120,
+    "h": 66,
+    "title": "ebassistRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttens.png",
+    "w": 75,
+    "h": 83,
+    "title": "eighttens"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttensB.png",
+    "w": 75,
+    "h": 69,
+    "title": "eighttensB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttensL.png",
+    "w": 64,
+    "h": 95,
+    "title": "eighttensL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttensLA.png",
+    "w": 90,
+    "h": 108,
+    "title": "eighttensLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttensR.png",
+    "w": 64,
+    "h": 95,
+    "title": "eighttensR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttensRA.png",
+    "w": 90,
+    "h": 108,
+    "title": "eighttensRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/fourtens.png",
+    "w": 75,
+    "h": 51,
+    "title": "fourtens"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/fourtensL.png",
+    "w": 45,
+    "h": 85,
+    "title": "fourtensL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/fourtensLA.png",
+    "w": 80,
+    "h": 85,
+    "title": "fourtensLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/fourtensR.png",
+    "w": 45,
+    "h": 85,
+    "title": "fourtensR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/fourtensRA.png",
+    "w": 85,
+    "h": 84,
+    "title": "fourtensRA"
+  }
+]</mxlibrary>

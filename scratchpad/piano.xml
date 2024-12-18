@@ -1,0 +1,338 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrand.png",
+    "w": 170,
+    "h": 211,
+    "title": "BabyGrand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandB.png",
+    "w": 160,
+    "h": 188,
+    "title": "BabyGrandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandL.png",
+    "w": 222,
+    "h": 195,
+    "title": "BabyGrandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandLA.png",
+    "w": 190,
+    "h": 205,
+    "title": "BabyGrandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandLB.png",
+    "w": 160,
+    "h": 204,
+    "title": "BabyGrandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandR.png",
+    "w": 214,
+    "h": 165,
+    "title": "BabyGrandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandRA.png",
+    "w": 175,
+    "h": 221,
+    "title": "BabyGrandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/BabyGrandRB.png",
+    "w": 195,
+    "h": 174,
+    "title": "BabyGrandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrand.png",
+    "w": 165,
+    "h": 195,
+    "title": "ClosedGrand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandB.png",
+    "w": 165,
+    "h": 202,
+    "title": "ClosedGrandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandL.png",
+    "w": 215,
+    "h": 162,
+    "title": "ClosedGrandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandLA.png",
+    "w": 230,
+    "h": 202,
+    "title": "ClosedGrandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandLB.png",
+    "w": 182,
+    "h": 244,
+    "title": "ClosedGrandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandR.png",
+    "w": 221,
+    "h": 178,
+    "title": "ClosedGrandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandRA.png",
+    "w": 178,
+    "h": 240,
+    "title": "ClosedGrandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/ClosedGrandRB.png",
+    "w": 240,
+    "h": 208,
+    "title": "ClosedGrandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/GrandPiano1B.png",
+    "w": 180,
+    "h": 236,
+    "title": "GrandPiano1B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/GrandPiano1LB.png",
+    "w": 175,
+    "h": 252,
+    "title": "GrandPiano1LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/GrandPiano1RB.png",
+    "w": 255,
+    "h": 195,
+    "title": "GrandPiano1RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/Harpsichord.png",
+    "w": 120,
+    "h": 211,
+    "title": "Harpsichord"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordB.png",
+    "w": 120,
+    "h": 204,
+    "title": "HarpsichordB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordL.png",
+    "w": 222,
+    "h": 136,
+    "title": "HarpsichordL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordLA.png",
+    "w": 240,
+    "h": 209,
+    "title": "HarpsichordLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordLB.png",
+    "w": 152,
+    "h": 238,
+    "title": "HarpsichordLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordR.png",
+    "w": 218,
+    "h": 120,
+    "title": "HarpsichordR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordRA.png",
+    "w": 144,
+    "h": 252,
+    "title": "HarpsichordRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/HarpsichordRB.png",
+    "w": 180,
+    "h": 179,
+    "title": "HarpsichordRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano.png",
+    "w": 170,
+    "h": 304,
+    "title": "grandpiano"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano1.png",
+    "w": 170,
+    "h": 227,
+    "title": "grandpiano1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano1L.png",
+    "w": 251,
+    "h": 203,
+    "title": "grandpiano1L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano1LA.png",
+    "w": 220,
+    "h": 225,
+    "title": "grandpiano1LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano1R.png",
+    "w": 255,
+    "h": 201,
+    "title": "grandpiano1R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpiano1RA.png",
+    "w": 185,
+    "h": 253,
+    "title": "grandpiano1RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoB.png",
+    "w": 180,
+    "h": 299,
+    "title": "grandpianoB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoL.png",
+    "w": 319,
+    "h": 195,
+    "title": "grandpianoL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoLA.png",
+    "w": 265,
+    "h": 286,
+    "title": "grandpianoLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoLB.png",
+    "w": 230,
+    "h": 290,
+    "title": "grandpianoLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoR.png",
+    "w": 327,
+    "h": 184,
+    "title": "grandpianoR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoRA.png",
+    "w": 210,
+    "h": 302,
+    "title": "grandpianoRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/grandpianoRB.png",
+    "w": 300,
+    "h": 254,
+    "title": "grandpianoRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayer.png",
+    "w": 60,
+    "h": 72,
+    "title": "pplayer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerB.png",
+    "w": 60,
+    "h": 72,
+    "title": "pplayerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerL.png",
+    "w": 69,
+    "h": 60,
+    "title": "pplayerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerLA.png",
+    "w": 65,
+    "h": 73,
+    "title": "pplayerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerLB.png",
+    "w": 65,
+    "h": 75,
+    "title": "pplayerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerR.png",
+    "w": 70,
+    "h": 62,
+    "title": "pplayerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerRA.png",
+    "w": 65,
+    "h": 72,
+    "title": "pplayerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/pplayerRB.png",
+    "w": 60,
+    "h": 66,
+    "title": "pplayerRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/upright.png",
+    "w": 135,
+    "h": 106,
+    "title": "upright"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightB.png",
+    "w": 144,
+    "h": 86,
+    "title": "uprightB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightL.png",
+    "w": 93,
+    "h": 144,
+    "title": "uprightL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightLA.png",
+    "w": 140,
+    "h": 150,
+    "title": "uprightLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightLB.png",
+    "w": 144,
+    "h": 119,
+    "title": "uprightLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightR.png",
+    "w": 97,
+    "h": 144,
+    "title": "uprightR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightRA.png",
+    "w": 140,
+    "h": 149,
+    "title": "uprightRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/piano/uprightRB.png",
+    "w": 144,
+    "h": 124,
+    "title": "uprightRB"
+  }
+]</mxlibrary>

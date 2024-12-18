@@ -1,0 +1,50 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/icon_bold.png",
+    "w": 32,
+    "h": 32,
+    "title": "icon_bold"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/icon_color.png",
+    "w": 32,
+    "h": 32,
+    "title": "icon_color"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/icon_edit.png",
+    "w": 32,
+    "h": 32,
+    "title": "icon_edit"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/icon_font.png",
+    "w": 32,
+    "h": 32,
+    "title": "icon_font"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/icon_smaller.png",
+    "w": 32,
+    "h": 32,
+    "title": "icon_smaller"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/iconmask.png",
+    "w": 128,
+    "h": 128,
+    "title": "iconmask"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/shade.png",
+    "w": 75,
+    "h": 75,
+    "title": "shade"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/icon/shademask.png",
+    "w": 75,
+    "h": 75,
+    "title": "shademask"
+  }
+]</mxlibrary>

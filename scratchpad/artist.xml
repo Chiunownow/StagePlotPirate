@@ -1,0 +1,596 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Girl.png",
+    "w": 80,
+    "h": 82,
+    "title": "Girl"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlB.png",
+    "w": 77,
+    "h": 75,
+    "title": "GirlB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlL.png",
+    "w": 42,
+    "h": 105,
+    "title": "GirlL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlLA.png",
+    "w": 70,
+    "h": 94,
+    "title": "GirlLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlLB.png",
+    "w": 70,
+    "h": 89,
+    "title": "GirlLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlR.png",
+    "w": 53,
+    "h": 94,
+    "title": "GirlR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlRA.png",
+    "w": 70,
+    "h": 90,
+    "title": "GirlRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/GirlRB.png",
+    "w": 70,
+    "h": 88,
+    "title": "GirlRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1.png",
+    "w": 49,
+    "h": 63,
+    "title": "Man1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1B.png",
+    "w": 52,
+    "h": 61,
+    "title": "Man1B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1L.png",
+    "w": 39,
+    "h": 67,
+    "title": "Man1L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1LA.png",
+    "w": 52,
+    "h": 73,
+    "title": "Man1LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1LB.png",
+    "w": 56,
+    "h": 67,
+    "title": "Man1LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1R.png",
+    "w": 41,
+    "h": 67,
+    "title": "Man1R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1RA.png",
+    "w": 52,
+    "h": 81,
+    "title": "Man1RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1RB.png",
+    "w": 55,
+    "h": 61,
+    "title": "Man1RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2.png",
+    "w": 63,
+    "h": 56,
+    "title": "Man2"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2B.png",
+    "w": 66,
+    "h": 55,
+    "title": "Man2B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2L.png",
+    "w": 48,
+    "h": 81,
+    "title": "Man2L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2LA.png",
+    "w": 58,
+    "h": 71,
+    "title": "Man2LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2LB.png",
+    "w": 60,
+    "h": 66,
+    "title": "Man2LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2R.png",
+    "w": 54,
+    "h": 75,
+    "title": "Man2R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2RA.png",
+    "w": 58,
+    "h": 68,
+    "title": "Man2RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man2RB.png",
+    "w": 69,
+    "h": 64,
+    "title": "Man2RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3.png",
+    "w": 57,
+    "h": 53,
+    "title": "Man3"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3B.png",
+    "w": 61,
+    "h": 63,
+    "title": "Man3B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3L.png",
+    "w": 50,
+    "h": 51,
+    "title": "Man3L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3LA.png",
+    "w": 51,
+    "h": 67,
+    "title": "Man3LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3LB.png",
+    "w": 57,
+    "h": 67,
+    "title": "Man3LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3R.png",
+    "w": 52,
+    "h": 60,
+    "title": "Man3R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3RA.png",
+    "w": 53,
+    "h": 59,
+    "title": "Man3RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man3RB.png",
+    "w": 66,
+    "h": 48,
+    "title": "Man3RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1.png",
+    "w": 50,
+    "h": 65,
+    "title": "Woman1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1B.png",
+    "w": 48,
+    "h": 59,
+    "title": "Woman1B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1L.png",
+    "w": 50,
+    "h": 52,
+    "title": "Woman1L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1LA.png",
+    "w": 51,
+    "h": 59,
+    "title": "Woman1LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1LB.png",
+    "w": 41,
+    "h": 61,
+    "title": "Woman1LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1R.png",
+    "w": 49,
+    "h": 61,
+    "title": "Woman1R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1RA.png",
+    "w": 44,
+    "h": 70,
+    "title": "Woman1RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman1RB.png",
+    "w": 49,
+    "h": 59,
+    "title": "Woman1RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2.png",
+    "w": 63,
+    "h": 67,
+    "title": "Woman2"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2B.png",
+    "w": 60,
+    "h": 71,
+    "title": "Woman2B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2L.png",
+    "w": 45,
+    "h": 71,
+    "title": "Woman2L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2LA.png",
+    "w": 48,
+    "h": 71,
+    "title": "Woman2LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2LB.png",
+    "w": 69,
+    "h": 73,
+    "title": "Woman2LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2R.png",
+    "w": 47,
+    "h": 63,
+    "title": "Woman2R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2RA.png",
+    "w": 66,
+    "h": 71,
+    "title": "Woman2RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman2RB.png",
+    "w": 48,
+    "h": 76,
+    "title": "Woman2RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3.png",
+    "w": 57,
+    "h": 52,
+    "title": "Woman3"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3B.png",
+    "w": 62,
+    "h": 59,
+    "title": "Woman3B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3L.png",
+    "w": 47,
+    "h": 68,
+    "title": "Woman3L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3LA.png",
+    "w": 55,
+    "h": 62,
+    "title": "Woman3LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3LB.png",
+    "w": 62,
+    "h": 60,
+    "title": "Woman3LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3R.png",
+    "w": 52,
+    "h": 65,
+    "title": "Woman3R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3RA.png",
+    "w": 60,
+    "h": 61,
+    "title": "Woman3RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Woman3RB.png",
+    "w": 54,
+    "h": 60,
+    "title": "Woman3RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductor.png",
+    "w": 72,
+    "h": 107,
+    "title": "conductor"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorB.png",
+    "w": 72,
+    "h": 78,
+    "title": "conductorB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorL.png",
+    "w": 86,
+    "h": 84,
+    "title": "conductorL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorLA.png",
+    "w": 95,
+    "h": 118,
+    "title": "conductorLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorLB.png",
+    "w": 93,
+    "h": 92,
+    "title": "conductorLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorR.png",
+    "w": 68,
+    "h": 90,
+    "title": "conductorR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorRA.png",
+    "w": 97,
+    "h": 112,
+    "title": "conductorRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/conductorRB.png",
+    "w": 93,
+    "h": 96,
+    "title": "conductorRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/dancer.png",
+    "w": 113,
+    "h": 90,
+    "title": "dancer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/dancerL.png",
+    "w": 70,
+    "h": 110,
+    "title": "dancerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/dancerLA.png",
+    "w": 105,
+    "h": 100,
+    "title": "dancerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/dancerR.png",
+    "w": 70,
+    "h": 95,
+    "title": "dancerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/dancerRA.png",
+    "w": 60,
+    "h": 90,
+    "title": "dancerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseated.png",
+    "w": 43,
+    "h": 65,
+    "title": "femseated"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedB.png",
+    "w": 45,
+    "h": 54,
+    "title": "femseatedB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedL.png",
+    "w": 55,
+    "h": 50,
+    "title": "femseatedL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedLA.png",
+    "w": 60,
+    "h": 60,
+    "title": "femseatedLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedLB.png",
+    "w": 51,
+    "h": 57,
+    "title": "femseatedLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedR.png",
+    "w": 55,
+    "h": 50,
+    "title": "femseatedR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedRA.png",
+    "w": 60,
+    "h": 60,
+    "title": "femseatedRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/femseatedRB.png",
+    "w": 51,
+    "h": 57,
+    "title": "femseatedRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/generic.png",
+    "w": 65,
+    "h": 55,
+    "title": "generic"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericB.png",
+    "w": 70,
+    "h": 51,
+    "title": "genericB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericL.png",
+    "w": 39,
+    "h": 65,
+    "title": "genericL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericLA.png",
+    "w": 62,
+    "h": 63,
+    "title": "genericLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericLB.png",
+    "w": 60,
+    "h": 56,
+    "title": "genericLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericR.png",
+    "w": 40,
+    "h": 74,
+    "title": "genericR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericRA.png",
+    "w": 57,
+    "h": 74,
+    "title": "genericRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/genericRB.png",
+    "w": 64,
+    "h": 57,
+    "title": "genericRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytar.png",
+    "w": 123,
+    "h": 53,
+    "title": "keytar"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytarplayer.png",
+    "w": 130,
+    "h": 90,
+    "title": "keytarplayer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytarplayerL.png",
+    "w": 74,
+    "h": 130,
+    "title": "keytarplayerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytarplayerLA.png",
+    "w": 110,
+    "h": 97,
+    "title": "keytarplayerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytarplayerR.png",
+    "w": 79,
+    "h": 125,
+    "title": "keytarplayerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/keytarplayerRA.png",
+    "w": 110,
+    "h": 107,
+    "title": "keytarplayerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seated.png",
+    "w": 71,
+    "h": 64,
+    "title": "seated"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedB.png",
+    "w": 68,
+    "h": 59,
+    "title": "seatedB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedL.png",
+    "w": 57,
+    "h": 72,
+    "title": "seatedL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedLA.png",
+    "w": 76,
+    "h": 74,
+    "title": "seatedLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedLB.png",
+    "w": 71,
+    "h": 74,
+    "title": "seatedLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedR.png",
+    "w": 59,
+    "h": 68,
+    "title": "seatedR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedRA.png",
+    "w": 67,
+    "h": 77,
+    "title": "seatedRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/seatedRB.png",
+    "w": 86,
+    "h": 67,
+    "title": "seatedRB"
+  }
+]</mxlibrary>

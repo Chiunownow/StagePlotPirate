@@ -1,0 +1,176 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/Vocal2.png",
+    "w": 41,
+    "h": 110,
+    "title": "Vocal2"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/Vocal2L.png",
+    "w": 70,
+    "h": 62,
+    "title": "Vocal2L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/Vocal2LA.png",
+    "w": 40,
+    "h": 123,
+    "title": "Vocal2LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/Vocal2R.png",
+    "w": 70,
+    "h": 62,
+    "title": "Vocal2R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/Vocal2RA.png",
+    "w": 40,
+    "h": 123,
+    "title": "Vocal2RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstand.png",
+    "w": 58,
+    "h": 50,
+    "title": "musicstand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandBack.png",
+    "w": 55,
+    "h": 43,
+    "title": "musicstandBack"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandL.png",
+    "w": 44,
+    "h": 72,
+    "title": "musicstandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandLA.png",
+    "w": 63,
+    "h": 64,
+    "title": "musicstandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandR.png",
+    "w": 44,
+    "h": 72,
+    "title": "musicstandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandRA.png",
+    "w": 63,
+    "h": 64,
+    "title": "musicstandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandbackLA.png",
+    "w": 63,
+    "h": 68,
+    "title": "musicstandbackLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/musicstandbackRA.png",
+    "w": 63,
+    "h": 68,
+    "title": "musicstandbackRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lamps.png",
+    "w": 46,
+    "h": 40,
+    "title": "standw2lamps"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsB.png",
+    "w": 44,
+    "h": 35,
+    "title": "standw2lampsB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsL.png",
+    "w": 35,
+    "h": 62,
+    "title": "standw2lampsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsLA.png",
+    "w": 51,
+    "h": 58,
+    "title": "standw2lampsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsLB.png",
+    "w": 50,
+    "h": 54,
+    "title": "standw2lampsLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsR.png",
+    "w": 35,
+    "h": 62,
+    "title": "standw2lampsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsRA.png",
+    "w": 51,
+    "h": 58,
+    "title": "standw2lampsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsRB.png",
+    "w": 50,
+    "h": 54,
+    "title": "standw2lampsRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlamp.png",
+    "w": 58,
+    "h": 50,
+    "title": "standwlamp"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampB.png",
+    "w": 55,
+    "h": 44,
+    "title": "standwlampB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampL.png",
+    "w": 44,
+    "h": 72,
+    "title": "standwlampL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampLA.png",
+    "w": 63,
+    "h": 64,
+    "title": "standwlampLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampLB.png",
+    "w": 63,
+    "h": 68,
+    "title": "standwlampLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampR.png",
+    "w": 44,
+    "h": 72,
+    "title": "standwlampR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampRA.png",
+    "w": 63,
+    "h": 64,
+    "title": "standwlampRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standwlampRB.png",
+    "w": 63,
+    "h": 68,
+    "title": "standwlampRB"
+  }
+]</mxlibrary>

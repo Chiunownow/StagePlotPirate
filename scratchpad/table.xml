@@ -1,0 +1,260 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/Gobo.png",
+    "w": 100,
+    "h": 33,
+    "title": "Gobo"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboB.png",
+    "w": 100,
+    "h": 36,
+    "title": "GoboB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboL.png",
+    "w": 29,
+    "h": 110,
+    "title": "GoboL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboLA.png",
+    "w": 103,
+    "h": 79,
+    "title": "GoboLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboLB.png",
+    "w": 100,
+    "h": 78,
+    "title": "GoboLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboR.png",
+    "w": 29,
+    "h": 110,
+    "title": "GoboR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboRA.png",
+    "w": 103,
+    "h": 79,
+    "title": "GoboRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/GoboRB.png",
+    "w": 100,
+    "h": 78,
+    "title": "GoboRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/Leslie.png",
+    "w": 53,
+    "h": 54,
+    "title": "Leslie"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/LeslieL.png",
+    "w": 48,
+    "h": 59,
+    "title": "LeslieL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/LeslieLA.png",
+    "w": 65,
+    "h": 72,
+    "title": "LeslieLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/LeslieR.png",
+    "w": 48,
+    "h": 59,
+    "title": "LeslieR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/LeslieRA.png",
+    "w": 65,
+    "h": 72,
+    "title": "LeslieRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/Table.png",
+    "w": 59,
+    "h": 57,
+    "title": "Table"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/TableLA.png",
+    "w": 72,
+    "h": 70,
+    "title": "TableLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/TableRA.png",
+    "w": 72,
+    "h": 70,
+    "title": "TableRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/Tamborim.png",
+    "w": 50,
+    "h": 31,
+    "title": "Tamborim"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/Tambourine.png",
+    "w": 36,
+    "h": 30,
+    "title": "Tambourine"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium.png",
+    "w": 80,
+    "h": 48,
+    "title": "podium"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumB.png",
+    "w": 80,
+    "h": 42,
+    "title": "podiumB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumL.png",
+    "w": 41,
+    "h": 85,
+    "title": "podiumL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumLA.png",
+    "w": 80,
+    "h": 77,
+    "title": "podiumLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumLB.png",
+    "w": 85,
+    "h": 72,
+    "title": "podiumLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumR.png",
+    "w": 41,
+    "h": 85,
+    "title": "podiumR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumRA.png",
+    "w": 80,
+    "h": 77,
+    "title": "podiumRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podiumRB.png",
+    "w": 85,
+    "h": 72,
+    "title": "podiumRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_mic.png",
+    "w": 80,
+    "h": 52,
+    "title": "podium_mic"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micB.png",
+    "w": 80,
+    "h": 50,
+    "title": "podium_micB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micL.png",
+    "w": 40,
+    "h": 85,
+    "title": "podium_micL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micLA.png",
+    "w": 80,
+    "h": 78,
+    "title": "podium_micLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micLB.png",
+    "w": 85,
+    "h": 72,
+    "title": "podium_micLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micR.png",
+    "w": 40,
+    "h": 85,
+    "title": "podium_micR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micRA.png",
+    "w": 80,
+    "h": 78,
+    "title": "podium_micRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/podium_micRB.png",
+    "w": 85,
+    "h": 72,
+    "title": "podium_micRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/rectable.png",
+    "w": 138,
+    "h": 59,
+    "title": "rectable"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/rectableL.png",
+    "w": 58,
+    "h": 140,
+    "title": "rectableL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/rectableLA.png",
+    "w": 148,
+    "h": 116,
+    "title": "rectableLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/rectableR.png",
+    "w": 58,
+    "h": 140,
+    "title": "rectableR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/rectableRA.png",
+    "w": 148,
+    "h": 116,
+    "title": "rectableRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/roundtable.png",
+    "w": 60,
+    "h": 62,
+    "title": "roundtable"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/tamboradomenicana.png",
+    "w": 45,
+    "h": 34,
+    "title": "tamboradomenicana"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/tamboralegre.png",
+    "w": 40,
+    "h": 43,
+    "title": "tamboralegre"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/table/tarabuka.png",
+    "w": 40,
+    "h": 45,
+    "title": "tarabuka"
+  }
+]</mxlibrary>

@@ -1,0 +1,1310 @@
+<mxlibrary>[
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Accordion.png",
+    "w": 68,
+    "h": 32,
+    "title": "Accordion"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/AccordionL.png",
+    "w": 26,
+    "h": 63,
+    "title": "AccordionL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/AccordionLA.png",
+    "w": 59,
+    "h": 47,
+    "title": "AccordionLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/AccordionR.png",
+    "w": 26,
+    "h": 63,
+    "title": "AccordionR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/AccordionRA.png",
+    "w": 50,
+    "h": 59,
+    "title": "AccordionRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStand.png",
+    "w": 60,
+    "h": 55,
+    "title": "ApexStand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandB.png",
+    "w": 50,
+    "h": 65,
+    "title": "ApexStandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandL.png",
+    "w": 45,
+    "h": 77,
+    "title": "ApexStandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandLA.png",
+    "w": 50,
+    "h": 71,
+    "title": "ApexStandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandLB.png",
+    "w": 50,
+    "h": 83,
+    "title": "ApexStandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandR.png",
+    "w": 45,
+    "h": 77,
+    "title": "ApexStandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandRA.png",
+    "w": 50,
+    "h": 71,
+    "title": "ApexStandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/ApexStandRB.png",
+    "w": 50,
+    "h": 83,
+    "title": "ApexStandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Celesta.png",
+    "w": 99,
+    "h": 58,
+    "title": "Celesta"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaB.png",
+    "w": 99,
+    "h": 67,
+    "title": "CelestaB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaL.png",
+    "w": 60,
+    "h": 99,
+    "title": "CelestaL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaLA.png",
+    "w": 108,
+    "h": 102,
+    "title": "CelestaLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaLB.png",
+    "w": 108,
+    "h": 99,
+    "title": "CelestaLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaR.png",
+    "w": 60,
+    "h": 99,
+    "title": "CelestaR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaRA.png",
+    "w": 108,
+    "h": 102,
+    "title": "CelestaRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/CelestaRB.png",
+    "w": 108,
+    "h": 99,
+    "title": "CelestaRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Fantom.png",
+    "w": 110,
+    "h": 41,
+    "title": "Fantom"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomB.png",
+    "w": 110,
+    "h": 38,
+    "title": "FantomB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomL.png",
+    "w": 40,
+    "h": 115,
+    "title": "FantomL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomLA.png",
+    "w": 115,
+    "h": 91,
+    "title": "FantomLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomLB.png",
+    "w": 120,
+    "h": 89,
+    "title": "FantomLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomR.png",
+    "w": 39,
+    "h": 114,
+    "title": "FantomR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomRA.png",
+    "w": 116,
+    "h": 91,
+    "title": "FantomRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/FantomRB.png",
+    "w": 120,
+    "h": 87,
+    "title": "FantomRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1.png",
+    "w": 104,
+    "h": 32,
+    "title": "Hammond-SK1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1B.png",
+    "w": 104,
+    "h": 34,
+    "title": "Hammond-SK1B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1L.png",
+    "w": 36,
+    "h": 104,
+    "title": "Hammond-SK1L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1LA.png",
+    "w": 110,
+    "h": 77,
+    "title": "Hammond-SK1LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1LB.png",
+    "w": 110,
+    "h": 89,
+    "title": "Hammond-SK1LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1R.png",
+    "w": 35,
+    "h": 104,
+    "title": "Hammond-SK1R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1RA.png",
+    "w": 110,
+    "h": 74,
+    "title": "Hammond-SK1RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Hammond-SK1RB.png",
+    "w": 110,
+    "h": 79,
+    "title": "Hammond-SK1RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3.png",
+    "w": 135,
+    "h": 116,
+    "title": "HammondB3"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3L.png",
+    "w": 140,
+    "h": 133,
+    "title": "HammondB3L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3LA.png",
+    "w": 155,
+    "h": 152,
+    "title": "HammondB3LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3R.png",
+    "w": 145,
+    "h": 130,
+    "title": "HammondB3R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3RA.png",
+    "w": 170,
+    "h": 155,
+    "title": "HammondB3RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3back.png",
+    "w": 130,
+    "h": 150,
+    "title": "HammondB3back"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3backLA.png",
+    "w": 180,
+    "h": 190,
+    "title": "HammondB3backLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondB3backRA.png",
+    "w": 170,
+    "h": 194,
+    "title": "HammondB3backRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondC.png",
+    "w": 124,
+    "h": 54,
+    "title": "HammondC"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCB.png",
+    "w": 124,
+    "h": 57,
+    "title": "HammondCB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCL.png",
+    "w": 36,
+    "h": 135,
+    "title": "HammondCL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCLA.png",
+    "w": 122,
+    "h": 105,
+    "title": "HammondCLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCLB.png",
+    "w": 131,
+    "h": 115,
+    "title": "HammondCLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCR.png",
+    "w": 37,
+    "h": 135,
+    "title": "HammondCR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCRA.png",
+    "w": 122,
+    "h": 104,
+    "title": "HammondCRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/HammondCRB.png",
+    "w": 131,
+    "h": 115,
+    "title": "HammondCRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KeyAmpL.png",
+    "w": 26,
+    "h": 56,
+    "title": "KeyAmpL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KeyAmpR.png",
+    "w": 27,
+    "h": 56,
+    "title": "KeyAmpR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1.png",
+    "w": 140,
+    "h": 31,
+    "title": "KorgSV-1"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1B.png",
+    "w": 140,
+    "h": 36,
+    "title": "KorgSV-1B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1L.png",
+    "w": 37,
+    "h": 130,
+    "title": "KorgSV-1L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1LA.png",
+    "w": 135,
+    "h": 82,
+    "title": "KorgSV-1LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1LB.png",
+    "w": 135,
+    "h": 102,
+    "title": "KorgSV-1LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1R.png",
+    "w": 37,
+    "h": 130,
+    "title": "KorgSV-1R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1RA.png",
+    "w": 135,
+    "h": 85,
+    "title": "KorgSV-1RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/KorgSV-1RB.png",
+    "w": 135,
+    "h": 92,
+    "title": "KorgSV-1RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Mellotron.png",
+    "w": 125,
+    "h": 69,
+    "title": "Mellotron"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronB.png",
+    "w": 130,
+    "h": 66,
+    "title": "MellotronB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronL.png",
+    "w": 67,
+    "h": 135,
+    "title": "MellotronL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronLA.png",
+    "w": 135,
+    "h": 122,
+    "title": "MellotronLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronLB.png",
+    "w": 145,
+    "h": 122,
+    "title": "MellotronLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronR.png",
+    "w": 67,
+    "h": 135,
+    "title": "MellotronR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronRA.png",
+    "w": 135,
+    "h": 114,
+    "title": "MellotronRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/MellotronRB.png",
+    "w": 145,
+    "h": 121,
+    "title": "MellotronRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88.png",
+    "w": 130,
+    "h": 53,
+    "title": "NordStage88"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88B.png",
+    "w": 130,
+    "h": 52,
+    "title": "NordStage88B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88L.png",
+    "w": 48,
+    "h": 130,
+    "title": "NordStage88L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88LA.png",
+    "w": 130,
+    "h": 96,
+    "title": "NordStage88LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88LB.png",
+    "w": 130,
+    "h": 101,
+    "title": "NordStage88LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88R.png",
+    "w": 46,
+    "h": 130,
+    "title": "NordStage88R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88RA.png",
+    "w": 130,
+    "h": 95,
+    "title": "NordStage88RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88RB.png",
+    "w": 135,
+    "h": 97,
+    "title": "NordStage88RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKII.png",
+    "w": 104,
+    "h": 36,
+    "title": "NovationMKII"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIIB.png",
+    "w": 104,
+    "h": 35,
+    "title": "NovationMKIIB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIIL.png",
+    "w": 42,
+    "h": 104,
+    "title": "NovationMKIIL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIILA.png",
+    "w": 110,
+    "h": 77,
+    "title": "NovationMKIILA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIILB.png",
+    "w": 110,
+    "h": 81,
+    "title": "NovationMKIILB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIIR.png",
+    "w": 40,
+    "h": 104,
+    "title": "NovationMKIIR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIIRA.png",
+    "w": 110,
+    "h": 78,
+    "title": "NovationMKIIRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NovationMKIIRB.png",
+    "w": 110,
+    "h": 79,
+    "title": "NovationMKIIRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynth.png",
+    "w": 124,
+    "h": 55,
+    "title": "PianoSynth"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthB.png",
+    "w": 124,
+    "h": 50,
+    "title": "PianoSynthB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthL.png",
+    "w": 41,
+    "h": 124,
+    "title": "PianoSynthL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthLA.png",
+    "w": 123,
+    "h": 103,
+    "title": "PianoSynthLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthLB.png",
+    "w": 123,
+    "h": 97,
+    "title": "PianoSynthLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthR.png",
+    "w": 40,
+    "h": 124,
+    "title": "PianoSynthR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthRA.png",
+    "w": 123,
+    "h": 103,
+    "title": "PianoSynthRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/PianoSynthRB.png",
+    "w": 123,
+    "h": 97,
+    "title": "PianoSynthRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Rhodes.png",
+    "w": 132,
+    "h": 67,
+    "title": "Rhodes"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesB.png",
+    "w": 132,
+    "h": 72,
+    "title": "RhodesB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesL.png",
+    "w": 68,
+    "h": 140,
+    "title": "RhodesL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesLA.png",
+    "w": 140,
+    "h": 118,
+    "title": "RhodesLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesLB.png",
+    "w": 140,
+    "h": 119,
+    "title": "RhodesLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesR.png",
+    "w": 68,
+    "h": 140,
+    "title": "RhodesR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesRA.png",
+    "w": 140,
+    "h": 119,
+    "title": "RhodesRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/RhodesRB.png",
+    "w": 140,
+    "h": 118,
+    "title": "RhodesRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/Wurlitzer.png",
+    "w": 108,
+    "h": 55,
+    "title": "Wurlitzer"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerB.png",
+    "w": 108,
+    "h": 57,
+    "title": "WurlitzerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerL.png",
+    "w": 48,
+    "h": 99,
+    "title": "WurlitzerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerLA.png",
+    "w": 117,
+    "h": 97,
+    "title": "WurlitzerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerLB.png",
+    "w": 113,
+    "h": 90,
+    "title": "WurlitzerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerR.png",
+    "w": 49,
+    "h": 99,
+    "title": "WurlitzerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerRA.png",
+    "w": 117,
+    "h": 97,
+    "title": "WurlitzerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/WurlitzerRB.png",
+    "w": 113,
+    "h": 92,
+    "title": "WurlitzerRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2.png",
+    "w": 165,
+    "h": 133,
+    "title": "YamahaGT2"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2B.png",
+    "w": 165,
+    "h": 117,
+    "title": "YamahaGT2B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2L.png",
+    "w": 123,
+    "h": 180,
+    "title": "YamahaGT2L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2LA.png",
+    "w": 175,
+    "h": 141,
+    "title": "YamahaGT2LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2LB.png",
+    "w": 170,
+    "h": 163,
+    "title": "YamahaGT2LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2R.png",
+    "w": 120,
+    "h": 165,
+    "title": "YamahaGT2R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2RA.png",
+    "w": 170,
+    "h": 166,
+    "title": "YamahaGT2RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/YamahaGT2RB.png",
+    "w": 195,
+    "h": 141,
+    "title": "YamahaGT2RB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionist.png",
+    "w": 70,
+    "h": 63,
+    "title": "accordionist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistB.png",
+    "w": 62,
+    "h": 59,
+    "title": "accordionistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistL.png",
+    "w": 61,
+    "h": 65,
+    "title": "accordionistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistLA.png",
+    "w": 70,
+    "h": 71,
+    "title": "accordionistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistLB.png",
+    "w": 55,
+    "h": 69,
+    "title": "accordionistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistR.png",
+    "w": 60,
+    "h": 65,
+    "title": "accordionistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistRA.png",
+    "w": 54,
+    "h": 70,
+    "title": "accordionistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/accordionistRB.png",
+    "w": 65,
+    "h": 62,
+    "title": "accordionistRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casio.png",
+    "w": 72,
+    "h": 25,
+    "title": "casio"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioB.png",
+    "w": 72,
+    "h": 24,
+    "title": "casioB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioL.png",
+    "w": 26,
+    "h": 68,
+    "title": "casioL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioLA.png",
+    "w": 72,
+    "h": 53,
+    "title": "casioLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioLB.png",
+    "w": 72,
+    "h": 50,
+    "title": "casioLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioR.png",
+    "w": 26,
+    "h": 68,
+    "title": "casioR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioRA.png",
+    "w": 72,
+    "h": 54,
+    "title": "casioRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/casioRB.png",
+    "w": 72,
+    "h": 52,
+    "title": "casioRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinet.png",
+    "w": 105,
+    "h": 34,
+    "title": "clavinet"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetB.png",
+    "w": 105,
+    "h": 35,
+    "title": "clavinetB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetL.png",
+    "w": 35,
+    "h": 95,
+    "title": "clavinetL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetLA.png",
+    "w": 100,
+    "h": 78,
+    "title": "clavinetLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetLB.png",
+    "w": 100,
+    "h": 76,
+    "title": "clavinetLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetR.png",
+    "w": 37,
+    "h": 95,
+    "title": "clavinetR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetRA.png",
+    "w": 100,
+    "h": 71,
+    "title": "clavinetRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/clavinetRB.png",
+    "w": 100,
+    "h": 75,
+    "title": "clavinetRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekey.png",
+    "w": 117,
+    "h": 59,
+    "title": "doublekey"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyB.png",
+    "w": 117,
+    "h": 80,
+    "title": "doublekeyB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyL.png",
+    "w": 68,
+    "h": 117,
+    "title": "doublekeyL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyLA.png",
+    "w": 131,
+    "h": 104,
+    "title": "doublekeyLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyLB.png",
+    "w": 126,
+    "h": 114,
+    "title": "doublekeyLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyR.png",
+    "w": 69,
+    "h": 117,
+    "title": "doublekeyR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyRA.png",
+    "w": 131,
+    "h": 106,
+    "title": "doublekeyRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeyRB.png",
+    "w": 126,
+    "h": 119,
+    "title": "doublekeyRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystand.png",
+    "w": 90,
+    "h": 56,
+    "title": "doublekeystand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandB.png",
+    "w": 84,
+    "h": 81,
+    "title": "doublekeystandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandL.png",
+    "w": 59,
+    "h": 85,
+    "title": "doublekeystandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandLA.png",
+    "w": 95,
+    "h": 79,
+    "title": "doublekeystandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandLB.png",
+    "w": 95,
+    "h": 108,
+    "title": "doublekeystandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandR.png",
+    "w": 59,
+    "h": 86,
+    "title": "doublekeystandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandRA.png",
+    "w": 94,
+    "h": 77,
+    "title": "doublekeystandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/doublekeystandRB.png",
+    "w": 95,
+    "h": 113,
+    "title": "doublekeystandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystand.png",
+    "w": 61,
+    "h": 57,
+    "title": "femkeystand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandB.png",
+    "w": 58,
+    "h": 54,
+    "title": "femkeystandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandL.png",
+    "w": 58,
+    "h": 82,
+    "title": "femkeystandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandLA.png",
+    "w": 66,
+    "h": 63,
+    "title": "femkeystandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandLB.png",
+    "w": 61,
+    "h": 71,
+    "title": "femkeystandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandR.png",
+    "w": 58,
+    "h": 65,
+    "title": "femkeystandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandRA.png",
+    "w": 64,
+    "h": 72,
+    "title": "femkeystandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/femkeystandRB.png",
+    "w": 66,
+    "h": 71,
+    "title": "femkeystandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyamp.png",
+    "w": 41,
+    "h": 42,
+    "title": "keyamp"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyampLA.png",
+    "w": 45,
+    "h": 56,
+    "title": "keyampLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyampRA.png",
+    "w": 45,
+    "h": 56,
+    "title": "keyampRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardist.png",
+    "w": 71,
+    "h": 67,
+    "title": "keyboardist"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistB.png",
+    "w": 71,
+    "h": 67,
+    "title": "keyboardistB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistL.png",
+    "w": 55,
+    "h": 71,
+    "title": "keyboardistL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistLA.png",
+    "w": 71,
+    "h": 75,
+    "title": "keyboardistLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistLB.png",
+    "w": 76,
+    "h": 71,
+    "title": "keyboardistLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistR.png",
+    "w": 61,
+    "h": 68,
+    "title": "keyboardistR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistRA.png",
+    "w": 71,
+    "h": 76,
+    "title": "keyboardistRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardistRB.png",
+    "w": 71,
+    "h": 76,
+    "title": "keyboardistRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostand.png",
+    "w": 125,
+    "h": 41,
+    "title": "keynostand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandB.png",
+    "w": 125,
+    "h": 42,
+    "title": "keynostandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandL.png",
+    "w": 45,
+    "h": 125,
+    "title": "keynostandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandLA.png",
+    "w": 134,
+    "h": 94,
+    "title": "keynostandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandLB.png",
+    "w": 130,
+    "h": 102,
+    "title": "keynostandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandR.png",
+    "w": 44,
+    "h": 125,
+    "title": "keynostandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandRA.png",
+    "w": 130,
+    "h": 92,
+    "title": "keynostandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keynostandRB.png",
+    "w": 130,
+    "h": 99,
+    "title": "keynostandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystand.png",
+    "w": 72,
+    "h": 45,
+    "title": "keystand"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandB.png",
+    "w": 72,
+    "h": 45,
+    "title": "keystandB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandL.png",
+    "w": 39,
+    "h": 72,
+    "title": "keystandL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandLA.png",
+    "w": 77,
+    "h": 68,
+    "title": "keystandLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandLB.png",
+    "w": 77,
+    "h": 71,
+    "title": "keystandLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandR.png",
+    "w": 38,
+    "h": 72,
+    "title": "keystandR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandRA.png",
+    "w": 77,
+    "h": 66,
+    "title": "keystandRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keystandRB.png",
+    "w": 81,
+    "h": 76,
+    "title": "keystandRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegs.png",
+    "w": 130,
+    "h": 59,
+    "title": "rhodeslegs"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsB.png",
+    "w": 130,
+    "h": 70,
+    "title": "rhodeslegsB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsL.png",
+    "w": 67,
+    "h": 135,
+    "title": "rhodeslegsL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsLA.png",
+    "w": 143,
+    "h": 114,
+    "title": "rhodeslegsLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsLB.png",
+    "w": 140,
+    "h": 132,
+    "title": "rhodeslegsLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsR.png",
+    "w": 67,
+    "h": 135,
+    "title": "rhodeslegsR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsRA.png",
+    "w": 140,
+    "h": 114,
+    "title": "rhodeslegsRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/rhodeslegsRB.png",
+    "w": 140,
+    "h": 126,
+    "title": "rhodeslegsRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyager.png",
+    "w": 90,
+    "h": 49,
+    "title": "voyager"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerB.png",
+    "w": 90,
+    "h": 48,
+    "title": "voyagerB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerL.png",
+    "w": 45,
+    "h": 79,
+    "title": "voyagerL"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerLA.png",
+    "w": 100,
+    "h": 84,
+    "title": "voyagerLA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerLB.png",
+    "w": 100,
+    "h": 84,
+    "title": "voyagerLB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerR.png",
+    "w": 54,
+    "h": 93,
+    "title": "voyagerR"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerRA.png",
+    "w": 100,
+    "h": 83,
+    "title": "voyagerRA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/voyagerRB.png",
+    "w": 99,
+    "h": 85,
+    "title": "voyagerRB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70.png",
+    "w": 171,
+    "h": 132,
+    "title": "yamahaCP70"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70B.png",
+    "w": 180,
+    "h": 161,
+    "title": "yamahaCP70B"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70L.png",
+    "w": 146,
+    "h": 171,
+    "title": "yamahaCP70L"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70LA.png",
+    "w": 176,
+    "h": 161,
+    "title": "yamahaCP70LA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70LB.png",
+    "w": 176,
+    "h": 182,
+    "title": "yamahaCP70LB"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70R.png",
+    "w": 142,
+    "h": 171,
+    "title": "yamahaCP70R"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70RA.png",
+    "w": 176,
+    "h": 159,
+    "title": "yamahaCP70RA"
+  },
+  {
+    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/yamahaCP70RB.png",
+    "w": 171,
+    "h": 179,
+    "title": "yamahaCP70RB"
+  }
+]</mxlibrary>

@@ -1,6 +1,38 @@
 <templates>
     <clibs name="stageplot">
-        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/Set.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/agt.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/alphabet.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/arrow.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/artist.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/bass.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/choir.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/device.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/dj.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/drum.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/egt.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/equipment.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/gt_stand.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/icon.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/io.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/keyborad.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/mic.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/mic_stand.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/monitor.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/music_stand.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/numerical.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/pedal.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/percussion.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/piano.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/pluck.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/power.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/saxphone.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/seat.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/singer.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/speaker.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/string.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/synth.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/table.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/wind.xml</add>
     </clibs>
-    <template url="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/template/src/example.xml" title="Stage Plot Example" section="basic" clibs="stageplot"/>
+    <template url="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.xml" title="Stage Plot Example" section="basic" clibs="stageplot" preview="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.xml"/>
 </templates>

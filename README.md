@@ -4,7 +4,7 @@
 
 [English](README.md) | [简体中文](README_CN.md)
 
-![example](src/example.png)
+![example](src/screenshot.png)
 
 StagePlotPro was a highly regarded tool among stage engineers and live band performance teams, celebrated for its simplicity and efficiency. Unfortunately, its creator, [Albert Francis, may have passed away](https://www.reddit.com/r/livesound/comments/1700war/is_stageplotpro_dead/) (may he rest in peace), and the official purchase channels have been discontinued, making this excellent software inaccessible.
 

@@ -4,7 +4,7 @@
 
 [English](README.md) | [简体中文](README_CN.md)
 
-![example](src/example.png)
+![example](src/screenshot.png)
 
 StagePlotPro 是一款深受舞台工程师和乐队演出团队喜爱的舞台布局工具，因其简洁高效而备受推崇。不幸的是，其作者 [Albert Francis 可能已去世](https://www.reddit.com/r/livesound/comments/1700war/is_stageplotpro_dead/)（愿逝者安息），导致官方购买渠道下线，这款优秀的软件也无法继续获取。
 

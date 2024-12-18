@@ -15,7 +15,7 @@ StagePlotPro 是一款深受舞台工程师和乐队演出团队喜爱的舞台�
 ## 使用方法
 
 ### 方法一：快速导入配置
-1. 打开 [此配置文件链接](https://app.diagrams.net/?src=about#_CONFIG_zdjNboMwDAfwp+HaAxPqeaPaaYdK086TCS7xSj4WO6N9+wE97LIH+EsIOR+KfnLARDTHl6ZtR75Qna2vaim8yVCoCOs60Dw9N90248Ob5bWnWzvarn3db4WWwyTm61CVi0vRONrBpbCP9l5qTMt67c13o4nPc7KzFDJ+LMAX3QPPND6iQBL3QN06zflM496kyQ63MG+mtocAzdnTwGiqUtKCRjJRsDQNpIolcj5JwSKN/COOwUxfYJ5SA5aI0Qolf1fJYVsfijXZpxrFEUsl6/JgooTlufJ9SIXA9i2IgwMhPt8hRbEE9qELVTGzFWvgIo5mLFbmEY9UXFUVtOqZhSJYAc1zdVcwUloYrCYo3bJPEez4q0xgxyiVOMHtXWa6wqGsrKkCM92jeSyS0TCDvXSL/J0LutMDxXFz/vvDzErl5nj6BQ==) 以加载所有图形库。
+1. 打开 [此配置文件链接](https://app.diagrams.net/#_CONFIG_NY1LCsMwDERP460X6SLrfsg60BOorhoL/AmWTHL8jguFYZ4GIY2bb26ajPOeyHiRxIjucoVHs11/4wI1OvwmFvurK7dQi3ExH2rG7h6ll3pACE+jjddUbZWGl+OUPwpEpvdgJimAtgD/N6s/cxrV8+ML) 以加载所有图形库。
 2. 如果左侧未显示图形库，请前往 **菜单栏 - 其他 - 配置** 检查配置是否导入成功。
 3. 若配置已导入但未生效，点击 **首选项 - 重置**，刷新页面后生效。
 

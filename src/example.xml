@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page 1" id="uemYFG_Onp3th6G_46Ug">
-    <mxGraphModel dx="3243" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2764" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,16 +56,16 @@
           <mxGeometry x="-653.5903019062339" y="334.88235294117646" width="22.35284904688305" height="34.70588235294118" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-14" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/DI.png;" parent="1" vertex="1">
-          <mxGeometry x="-653.5903019062339" y="312.52941176470586" width="17.058753219989697" height="15.882352941176471" as="geometry" />
+          <mxGeometry x="-624.47" y="316.65" width="25.08" height="23.35" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-15" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/stereoDI.png;" parent="1" vertex="1">
-          <mxGeometry x="-626.2374734672849" y="312.52941176470586" width="20.5881504379186" height="31.176470588235293" as="geometry" />
+          <mxGeometry x="-581.7674734672848" y="312.52941176470586" width="20.5881504379186" height="31.176470588235293" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-16" value="Click" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-660.8843894899536" y="299.5882352941177" width="50" height="30" as="geometry" />
+          <mxGeometry x="-640.9443894899536" y="282.5282352941177" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-17" value="Program" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-636.5315486862442" y="299.5882352941177" width="70" height="30" as="geometry" />
+          <mxGeometry x="-605.6515486862442" y="282.5282352941177" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttens.png;" parent="1" vertex="1">
           <mxGeometry x="-508.8261926841834" y="281.6470588235294" width="44.117465224111285" height="48.82352941176471" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="-1016.7652756311179" y="397.97058823529414" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/stereoDI.png;" parent="1" vertex="1">
-          <mxGeometry x="-1013.8241112828439" y="350.9117647058823" width="20.5881504379186" height="31.176470588235293" as="geometry" />
+          <mxGeometry x="-1010.0041112828438" y="345.6217647058823" width="20.5881504379186" height="31.176470588235293" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-27" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardist.png;" parent="1" vertex="1">
           <mxGeometry x="-1060.000391550747" y="347.97058823529414" width="41.76453374549202" height="39.411764705882355" as="geometry" />

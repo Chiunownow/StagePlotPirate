@@ -14,12 +14,25 @@ StagePlotPro 是一款深受舞台工程师和乐队演出团队喜爱的舞台�
 
 ## 使用方法
 
-### 方法一：快速导入配置
-1. 打开 [此配置文件链接](https://app.diagrams.net/#_CONFIG_NY1LCsMwDERP460X6SLrfsg60BOorhoL/AmWTHL8jguFYZ4GIY2bb26ajPOeyHiRxIjucoVHs11/4wI1OvwmFvurK7dQi3ExH2rG7h6ll3pACE+jjddUbZWGl+OUPwpEpvdgJimAtgD/N6s/cxrV8+ML) 以加载所有图形库。
+### 方法一：导入模板与图形库（适用网页版）
+> 这种方法会导致 draw.io 默认模板丢失
+1. 打开 [此链接](https://app.diagrams.net/#_CONFIG_NY1LCsMwDERP460X6SLrfsg60BOorhoL/AmWTHL8jguFYZ4GIY2bb26ajPOeyHiRxIjucoVHs11/4wI1OvwmFvurK7dQi3ExH2rG7h6ll3pACE+jjddUbZWGl+OUPwpEpvdgJimAtgD/N6s/cxrV8+ML) ，选择使用「StagePlotExample」模板创建新绘图。
 2. 如果左侧未显示图形库，请前往 **菜单栏 - 其他 - 配置** 检查配置是否导入成功。
 3. 若配置已导入但未生效，点击 **首选项 - 重置**，刷新页面后生效。
 
-### 方法二：手动导入图形库
+### 方法二：仅导入图形库（适用网页版）
+1. 打开 [此链接](https://app.diagrams.net/#_CONFIG_zdjNboMwDAfwp+HaAxPqeaPaaYdK086TCS7xSj4WO6N9+wE97LIH+EsIOR+KfnLARDTHl6ZtR75Qna2vaim8yVCoCOs60Dw9N90248Ob5bWnWzvarn3db4WWwyTm61CVi0vRONrBpbCP9l5qTMt67c13o4nPc7KzFDJ+LMAX3QPPND6iQBL3QN06zflM496kyQ63MG+mtocAzdnTwGiqUtKCRjJRsDQNpIolcj5JwSKN/COOwUxfYJ5SA5aI0Qolf1fJYVsfijXZpxrFEUsl6/JgooTlufJ9SIXA9i2IgwMhPt8hRbEE9qELVTGzFWvgIo5mLFbmEY9UXFUVtOqZhSJYAc1zdVcwUloYrCYo3bJPEez4q0xgxyiVOMHtXWa6wqGsrKkCM92jeSyS0TCDvXSL/J0LutMDxXFz/vvDzErl5nj6BQ==) ，以任意模板创建新绘图。
+2. 如果左侧未显示图形库，请前往 **菜单栏 - 其他 - 配置** 检查配置是否导入成功。
+3. 若配置已导入但未生效，点击 **首选项 - 重置**，刷新页面后生效。
+
+### 方法三：手动导入图形库（适用网页版）
+> 此方法图形素材托管在本仓库
 1. 进入 [scratchpad 文件夹](https://github.com/Chiunownow/StagePlotPirate/tree/main/scratchpad)。
 2. 复制所需图形库的 XML Raw 链接。
 3. 在 draw.io 中，前往 **菜单栏 - 文件 - 从…打开库 - URL**，粘贴链接并打开。
+
+### 方法四：导入本地图形库XML（适用网页版与本地版）
+> 此方法图形素材托管在本仓库
+1. 打开[此链接](https://github.com/Chiunownow/StagePlotPirate/archive/refs/heads/main.zip)下载本仓库zip并解压
+2. 前往 **菜单栏文件 - 从……导入库 - 设备** 逐一导入 `scratchpad` 目录下的 XML 文件
+3. 导入完成后可删除下载到本地的文件

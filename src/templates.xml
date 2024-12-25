@@ -34,5 +34,5 @@
         <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/table.xml</add>
         <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/wind.xml</add>
     </clibs>
-    <template url="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.xml" title="Stage Plot Example" section="basic" clibs="stageplot" preview="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.xml"/>
+    <template url="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.xml" title="Stage Plot Example" section="basic" clibs="stageplot" preview="https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/src/example.png"/>
 </templates>

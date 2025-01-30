@@ -36,3 +36,9 @@ StagePlotPro 是一款深受舞台工程师和乐队演出团队喜爱的舞台�
 1. 打开[此链接](https://github.com/Chiunownow/StagePlotPirate/archive/refs/heads/main.zip)下载本仓库zip并解压
 2. 前往 **菜单栏文件 - 从……导入库 - 设备** 逐一导入 `scratchpad` 目录下的 XML 文件
 3. 导入完成后可删除下载到本地的文件
+
+---
+
+![StagePlotLite](src/stageplotlite.png)
+
+或者可以试试[StagePlotLite](https://www.processon.com/view/link/6761e0c85e3c90729eb487dc?cid=6761d3a9f08dd01c527936ff)

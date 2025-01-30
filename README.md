@@ -36,3 +36,9 @@ To preserve its vital role in live performance work, we have ported the original
 1. Download the repository ZIP file from [this link](https://github.com/Chiunownow/StagePlotPirate/archive/refs/heads/main.zip) and extract it.
 2. In draw.io, navigate to **Menu - File - Import Library From - Device**, and import each XML file from the `scratchpad` folder.
 3. Once imported, you can delete the downloaded files from your local storage.
+
+---
+
+![StagePlotLite](src/stageplotlite.png)
+
+Also you can try [StagePlotLite](https://www.processon.com/view/link/6761e0c85e3c90729eb487dc?cid=6761d3a9f08dd01c527936ff) on ProcessOn

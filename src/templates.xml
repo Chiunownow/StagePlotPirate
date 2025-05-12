@@ -1,6 +1,6 @@
 <templates>
     <clibs name="stageplot">
-        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/set.xml</add>
+        <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/Set.xml</add>
         <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/agt.xml</add>
         <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/alphabet.xml</add>
         <add>Uhttps://raw.githubusercontent.com/Chiunownow/StagePlotPirate/refs/heads/main/scratchpad/arrow.xml</add>

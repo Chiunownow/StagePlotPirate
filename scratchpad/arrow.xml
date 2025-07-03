@@ -1,84 +1,84 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/a_down.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/a_down.png",
     "w": 35,
     "h": 26,
     "title": "a_down"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/a_up.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/a_up.png",
     "w": 35,
     "h": 26,
     "title": "a_up"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/acenter.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/acenter.png",
     "w": 15,
     "h": 15,
     "title": "acenter"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/adjlw.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/adjlw.png",
     "w": 25,
     "h": 25,
     "title": "adjlw"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/adjrw.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/adjrw.png",
     "w": 25,
     "h": 25,
     "title": "adjrw"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/adjy.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/adjy.png",
     "w": 25,
     "h": 25,
     "title": "adjy"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/aleft.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/aleft.png",
     "w": 15,
     "h": 15,
     "title": "aleft"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/aright.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/aright.png",
     "w": 15,
     "h": 15,
     "title": "aright"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/down.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/down.png",
     "w": 16,
     "h": 11,
     "title": "down"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/icon_bigger.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/icon_bigger.png",
     "w": 32,
     "h": 32,
     "title": "icon_bigger"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/last.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/last.png",
     "w": 26,
     "h": 35,
     "title": "last"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/movestage.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/movestage.png",
     "w": 30,
     "h": 60,
     "title": "movestage"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/next.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/next.png",
     "w": 26,
     "h": 35,
     "title": "next"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/arrow/up.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/arrow/up.png",
     "w": 16,
     "h": 10,
     "title": "up"

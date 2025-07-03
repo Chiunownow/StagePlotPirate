@@ -1,90 +1,90 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png",
     "w": 35,
     "h": 54,
     "title": "IEMwired"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png",
     "w": 40,
     "h": 39,
     "title": "Wedge"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/WedgeL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/WedgeL.png",
     "w": 45,
     "h": 42,
     "title": "WedgeL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/WedgeLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/WedgeLA.png",
     "w": 54,
     "h": 48,
     "title": "WedgeLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/WedgeR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/WedgeR.png",
     "w": 45,
     "h": 42,
     "title": "WedgeR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/WedgeRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/WedgeRA.png",
     "w": 54,
     "h": 48,
     "title": "WedgeRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/in_ear.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/in_ear.png",
     "w": 42,
     "h": 72,
     "title": "in_ear"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/personal_sys.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/personal_sys.png",
     "w": 45,
     "h": 42,
     "title": "personal_sys"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/personal_sysL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/personal_sysL.png",
     "w": 27,
     "h": 61,
     "title": "personal_sysL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/personal_sysLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/personal_sysLA.png",
     "w": 50,
     "h": 47,
     "title": "personal_sysLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/personal_sysR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/personal_sysR.png",
     "w": 27,
     "h": 59,
     "title": "personal_sysR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/personal_sysRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/personal_sysRA.png",
     "w": 50,
     "h": 47,
     "title": "personal_sysRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/wedgeB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/wedgeB.png",
     "w": 33,
     "h": 48,
     "title": "wedgeB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/wedgeLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/wedgeLB.png",
     "w": 54,
     "h": 56,
     "title": "wedgeLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/wedgeRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/wedgeRB.png",
     "w": 54,
     "h": 56,
     "title": "wedgeRB"

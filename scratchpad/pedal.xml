@@ -1,78 +1,78 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/BossPedal.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/BossPedal.png",
     "w": 17,
     "h": 30,
     "title": "BossPedal"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/BossPedalL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/BossPedalL.png",
     "w": 30,
     "h": 17,
     "title": "BossPedalL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/BossPedalLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/BossPedalLA.png",
     "w": 28,
     "h": 32,
     "title": "BossPedalLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/BossPedalR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/BossPedalR.png",
     "w": 30,
     "h": 17,
     "title": "BossPedalR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/BossPedalRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/BossPedalRA.png",
     "w": 28,
     "h": 32,
     "title": "BossPedalRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboard.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboard.png",
     "w": 50,
     "h": 34,
     "title": "pedalboard"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardB.png",
     "w": 50,
     "h": 37,
     "title": "pedalboardB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardL.png",
     "w": 40,
     "h": 50,
     "title": "pedalboardL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardLA.png",
     "w": 57,
     "h": 51,
     "title": "pedalboardLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardLB.png",
     "w": 60,
     "h": 53,
     "title": "pedalboardLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardR.png",
     "w": 42,
     "h": 50,
     "title": "pedalboardR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardRA.png",
     "w": 60,
     "h": 51,
     "title": "pedalboardRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/pedal/pedalboardRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/pedal/pedalboardRB.png",
     "w": 60,
     "h": 53,
     "title": "pedalboardRB"

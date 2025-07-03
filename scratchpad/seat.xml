@@ -1,216 +1,216 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/BarStoolB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/BarStoolB.png",
     "w": 48,
     "h": 49,
     "title": "BarStoolB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/BarStoolLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/BarStoolLB.png",
     "w": 50,
     "h": 44,
     "title": "BarStoolLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/BarStoolRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/BarStoolRB.png",
     "w": 50,
     "h": 44,
     "title": "BarStoolRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/OrchSeat.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/OrchSeat.png",
     "w": 75,
     "h": 112,
     "title": "OrchSeat"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/Stool.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/Stool.png",
     "w": 34,
     "h": 50,
     "title": "Stool"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/StoolLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/StoolLA.png",
     "w": 38,
     "h": 55,
     "title": "StoolLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/StoolRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/StoolRA.png",
     "w": 38,
     "h": 55,
     "title": "StoolRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/barstool.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/barstool.png",
     "w": 43,
     "h": 60,
     "title": "barstool"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/barstoolL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/barstoolL.png",
     "w": 50,
     "h": 62,
     "title": "barstoolL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/barstoolLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/barstoolLA.png",
     "w": 47,
     "h": 59,
     "title": "barstoolLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/barstoolR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/barstoolR.png",
     "w": 50,
     "h": 62,
     "title": "barstoolR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/barstoolRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/barstoolRA.png",
     "w": 47,
     "h": 59,
     "title": "barstoolRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chair.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chair.png",
     "w": 42,
     "h": 60,
     "title": "chair"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairL.png",
     "w": 52,
     "h": 54,
     "title": "chairL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairLA.png",
     "w": 55,
     "h": 81,
     "title": "chairLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairR.png",
     "w": 52,
     "h": 54,
     "title": "chairR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairRA.png",
     "w": 55,
     "h": 81,
     "title": "chairRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairback.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairback.png",
     "w": 44,
     "h": 50,
     "title": "chairback"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairbackLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairbackLA.png",
     "w": 60,
     "h": 65,
     "title": "chairbackLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/chairbackRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/chairbackRA.png",
     "w": 60,
     "h": 65,
     "title": "chairbackRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobench.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobench.png",
     "w": 68,
     "h": 39,
     "title": "pianobench"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchB.png",
     "w": 68,
     "h": 39,
     "title": "pianobenchB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchL.png",
     "w": 32,
     "h": 72,
     "title": "pianobenchL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchLA.png",
     "w": 69,
     "h": 53,
     "title": "pianobenchLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchLB.png",
     "w": 69,
     "h": 53,
     "title": "pianobenchLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchR.png",
     "w": 32,
     "h": 72,
     "title": "pianobenchR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchRA.png",
     "w": 69,
     "h": 53,
     "title": "pianobenchRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobenchRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobenchRB.png",
     "w": 69,
     "h": 53,
     "title": "pianobenchRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofa.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofa.png",
     "w": 200,
     "h": 95,
     "title": "sofa"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaB.png",
     "w": 200,
     "h": 91,
     "title": "sofaB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaL.png",
     "w": 91,
     "h": 185,
     "title": "sofaL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaLA.png",
     "w": 200,
     "h": 161,
     "title": "sofaLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaLB.png",
     "w": 205,
     "h": 166,
     "title": "sofaLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaR.png",
     "w": 91,
     "h": 185,
     "title": "sofaR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaRA.png",
     "w": 200,
     "h": 161,
     "title": "sofaRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/sofaRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/sofaRB.png",
     "w": 205,
     "h": 166,
     "title": "sofaRB"

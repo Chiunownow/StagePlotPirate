@@ -1,342 +1,342 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/FloorBox.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/FloorBox.png",
     "w": 45,
     "h": 31,
     "title": "FloorBox"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/Grande.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/Grande.png",
     "w": 90,
     "h": 75,
     "title": "Grande"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/LED_Wall.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/LED_Wall.png",
     "w": 450,
     "h": 58,
     "title": "LED_Wall"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/Leg.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/Leg.png",
     "w": 79,
     "h": 66,
     "title": "Leg"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/Rack.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/Rack.png",
     "w": 43,
     "h": 47,
     "title": "Rack"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackBack.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackBack.png",
     "w": 43,
     "h": 46,
     "title": "RackBack"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackBackLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackBackLA.png",
     "w": 58,
     "h": 65,
     "title": "RackBackLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackBackRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackBackRA.png",
     "w": 58,
     "h": 65,
     "title": "RackBackRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackL.png",
     "w": 43,
     "h": 48,
     "title": "RackL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackLA.png",
     "w": 56,
     "h": 67,
     "title": "RackLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackR.png",
     "w": 43,
     "h": 49,
     "title": "RackR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/RackRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/RackRA.png",
     "w": 56,
     "h": 67,
     "title": "RackRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/barricade.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/barricade.png",
     "w": 281,
     "h": 52,
     "title": "barricade"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/bigband.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/bigband.png",
     "w": 71,
     "h": 84,
     "title": "bigband"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/bigband_w.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/bigband_w.png",
     "w": 71,
     "h": 90,
     "title": "bigband_w"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/curtainold.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/curtainold.png",
     "w": 720,
     "h": 75,
     "title": "curtainold"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/flightcase.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/flightcase.png",
     "w": 68,
     "h": 56,
     "title": "flightcase"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/flightcaseL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/flightcaseL.png",
     "w": 47,
     "h": 74,
     "title": "flightcaseL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/flightcaseLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/flightcaseLA.png",
     "w": 77,
     "h": 73,
     "title": "flightcaseLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/flightcaseR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/flightcaseR.png",
     "w": 47,
     "h": 74,
     "title": "flightcaseR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/flightcaseRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/flightcaseRA.png",
     "w": 77,
     "h": 73,
     "title": "flightcaseRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/fronttoback.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/fronttoback.png",
     "w": 32,
     "h": 1061,
     "title": "fronttoback"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/legwing.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/legwing.png",
     "w": 26,
     "h": 497,
     "title": "legwing"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/oneproj.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/oneproj.png",
     "w": 700,
     "h": 38,
     "title": "oneproj"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/projectionscreen.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/projectionscreen.png",
     "w": 220,
     "h": 36,
     "title": "projectionscreen"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/projectionscreenwider.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/projectionscreenwider.png",
     "w": 319,
     "h": 36,
     "title": "projectionscreenwider"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/projectionscreenwidest.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/projectionscreenwidest.png",
     "w": 418,
     "h": 36,
     "title": "projectionscreenwidest"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/projector_truss.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/projector_truss.png",
     "w": 720,
     "h": 36,
     "title": "projector_truss"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/rf30.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/rf30.png",
     "w": 223,
     "h": 17,
     "title": "rf30"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/riserfront.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/riserfront.png",
     "w": 428,
     "h": 17,
     "title": "riserfront"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/riserfrontB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/riserfrontB.png",
     "w": 704,
     "h": 69,
     "title": "riserfrontB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/riserfrontRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/riserfrontRA.png",
     "w": 1062,
     "h": 704,
     "title": "riserfrontRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/rs30.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/rs30.png",
     "w": 10,
     "h": 198,
     "title": "rs30"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/sandbag.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/sandbag.png",
     "w": 50,
     "h": 25,
     "title": "sandbag"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/sandbagL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/sandbagL.png",
     "w": 29,
     "h": 47,
     "title": "sandbagL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/sandbagLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/sandbagLA.png",
     "w": 53,
     "h": 39,
     "title": "sandbagLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/sandbagR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/sandbagR.png",
     "w": 29,
     "h": 47,
     "title": "sandbagR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/sandbagRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/sandbagRA.png",
     "w": 53,
     "h": 41,
     "title": "sandbagRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stagedgeF.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stagedgeF.png",
     "w": 1296,
     "h": 16,
     "title": "stagedgeF"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stagedgeL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stagedgeL.png",
     "w": 6,
     "h": 864,
     "title": "stagedgeL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stagefront.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stagefront.png",
     "w": 1293,
     "h": 100,
     "title": "stagefront"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stairs.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stairs.png",
     "w": 72,
     "h": 80,
     "title": "stairs"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stairsL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stairsL.png",
     "w": 78,
     "h": 62,
     "title": "stairsL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stairsR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stairsR.png",
     "w": 78,
     "h": 62,
     "title": "stairsR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stairsback.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stairsback.png",
     "w": 72,
     "h": 64,
     "title": "stairsback"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/steps.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/steps.png",
     "w": 100,
     "h": 109,
     "title": "steps"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stepsB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stepsB.png",
     "w": 95,
     "h": 63,
     "title": "stepsB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stepsL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stepsL.png",
     "w": 98,
     "h": 100,
     "title": "stepsL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/stepsR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/stepsR.png",
     "w": 98,
     "h": 100,
     "title": "stepsR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/threeproj.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/threeproj.png",
     "w": 700,
     "h": 38,
     "title": "threeproj"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/truss.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/truss.png",
     "w": 56,
     "h": 90,
     "title": "truss"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/trussq.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/trussq.png",
     "w": 49,
     "h": 90,
     "title": "trussq"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/twoproj.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/twoproj.png",
     "w": 700,
     "h": 34,
     "title": "twoproj"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/updown.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/updown.png",
     "w": 62,
     "h": 818,
     "title": "updown"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/washboard.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/washboard.png",
     "w": 50,
     "h": 28,
     "title": "washboard"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/wingright.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/wingright.png",
     "w": 32,
     "h": 800,
     "title": "wingright"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/wingrightL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/wingrightL.png",
     "w": 32,
     "h": 800,
     "title": "wingrightL"

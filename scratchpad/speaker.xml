@@ -1,234 +1,234 @@
 <mxlibrary>[
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/BoseB2.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/BoseB2.png",
     "w": 33,
     "h": 51,
     "title": "BoseB2"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/BoseL1.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/BoseL1.png",
     "w": 46,
     "h": 91,
     "title": "BoseL1"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfile.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfile.png",
     "w": 62,
     "h": 30,
     "title": "LowProfile"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileB.png",
     "w": 56,
     "h": 37,
     "title": "LowProfileB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileL.png",
     "w": 39,
     "h": 60,
     "title": "LowProfileL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileLA.png",
     "w": 66,
     "h": 56,
     "title": "LowProfileLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileLB.png",
     "w": 61,
     "h": 57,
     "title": "LowProfileLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileR.png",
     "w": 39,
     "h": 60,
     "title": "LowProfileR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileRA.png",
     "w": 66,
     "h": 54,
     "title": "LowProfileRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/LowProfileRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/LowProfileRB.png",
     "w": 61,
     "h": 56,
     "title": "LowProfileRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/Subwoofer.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/Subwoofer.png",
     "w": 90,
     "h": 78,
     "title": "Subwoofer"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/linearray.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/linearray.png",
     "w": 103,
     "h": 90,
     "title": "linearray"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefill.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefill.png",
     "w": 66,
     "h": 62,
     "title": "sidefill"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillB.png",
     "w": 56,
     "h": 52,
     "title": "sidefillB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillL.png",
     "w": 55,
     "h": 78,
     "title": "sidefillL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillLA.png",
     "w": 82,
     "h": 89,
     "title": "sidefillLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillLB.png",
     "w": 65,
     "h": 69,
     "title": "sidefillLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillR.png",
     "w": 55,
     "h": 78,
     "title": "sidefillR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillRA.png",
     "w": 82,
     "h": 89,
     "title": "sidefillRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/sidefillRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/sidefillRB.png",
     "w": 65,
     "h": 69,
     "title": "sidefillRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/smallermains.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/smallermains.png",
     "w": 54,
     "h": 70,
     "title": "smallermains"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstand.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstand.png",
     "w": 50,
     "h": 76,
     "title": "speaknsubwstand"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandB.png",
     "w": 50,
     "h": 90,
     "title": "speaknsubwstandB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandL.png",
     "w": 68,
     "h": 68,
     "title": "speaknsubwstandL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandLA.png",
     "w": 71,
     "h": 84,
     "title": "speaknsubwstandLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandLB.png",
     "w": 70,
     "h": 93,
     "title": "speaknsubwstandLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandR.png",
     "w": 68,
     "h": 68,
     "title": "speaknsubwstandR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandRA.png",
     "w": 71,
     "h": 84,
     "title": "speaknsubwstandRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speaknsubwstandRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speaknsubwstandRB.png",
     "w": 70,
     "h": 93,
     "title": "speaknsubwstandRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstand.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstand.png",
     "w": 52,
     "h": 77,
     "title": "speakwstand"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandB.png",
     "w": 52,
     "h": 68,
     "title": "speakwstandB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandL.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandL.png",
     "w": 64,
     "h": 73,
     "title": "speakwstandL"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandLA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandLA.png",
     "w": 59,
     "h": 86,
     "title": "speakwstandLA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandLB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandLB.png",
     "w": 59,
     "h": 92,
     "title": "speakwstandLB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandR.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandR.png",
     "w": 64,
     "h": 73,
     "title": "speakwstandR"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandRA.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandRA.png",
     "w": 59,
     "h": 86,
     "title": "speakwstandRA"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/speakwstandRB.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/speakwstandRB.png",
     "w": 59,
     "h": 92,
     "title": "speakwstandRB"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/stageplotproleft.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/stageplotproleft.png",
     "w": 64,
     "h": 64,
     "title": "stageplotproleft"
   },
   {
-    "data": "https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/speaker/stageplotprologo.png",
+    "data": "https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/speaker/stageplotprologo.png",
     "w": 64,
     "h": 64,
     "title": "stageplotprologo"

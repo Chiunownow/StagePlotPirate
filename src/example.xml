@@ -10,55 +10,55 @@
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1112.9707614631634" y="251.3529411764706" width="1034.1133848531686" height="364.7058823529412" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-33" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/seat/pianobench.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-33" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/seat/pianobench.png;" parent="1" vertex="1">
           <mxGeometry x="-1059.1180422462648" y="349.7352941176471" width="39.999835136527565" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-18" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummat.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-18" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/drum/drummat.png;" parent="1" vertex="1">
           <mxGeometry x="-809.060249356002" y="277.2352941176471" width="212.22853704276147" height="185.29411764705884" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/egt/marshall.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/egt/marshall.png;" parent="1" vertex="1">
           <mxGeometry x="-908.8245440494591" y="288.55882352941177" width="40.58806800618238" height="35.88235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/egt/eguitarist.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/egt/eguitarist.png;" parent="1" vertex="1">
           <mxGeometry x="-911.324533745492" y="347.97058823529414" width="62.940917053065434" height="45.88235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
           <mxGeometry x="-932.6479752704792" y="310.32352941176475" width="29.411643482740857" height="31.176470588235293" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-4" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-4" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
           <mxGeometry x="-904.5598557444616" y="366.79411764705884" width="29.411643482740857" height="65.88235294117648" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-5" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-5" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-916.0303967027305" y="417.0882352941177" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-6" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-6" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-925.1480061823802" y="371.5" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-7" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortL.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-7" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/BoomLshortL.png;" parent="1" vertex="1">
           <mxGeometry x="-885.2952292632663" y="317.97058823529414" width="38.235136527563114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drumshield_two.png;rotation=0;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/drum/drumshield_two.png;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-802.6485110767646" y="336.3529411764706" width="188.9462800618238" height="94.11764705882354" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-9" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/ThreeToms.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-9" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/drum/ThreeToms.png;" parent="1" vertex="1">
           <mxGeometry x="-772.2956950025759" y="328.4117647058823" width="116.4701081916538" height="71.76470588235294" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-10" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/drum/drummer.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-10" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/drum/drummer.png;" parent="1" vertex="1">
           <mxGeometry x="-720.2959093250902" y="316.6470588235294" width="34.70573930963421" height="42.35294117647059" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;rotation=90;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-789.9426810922205" y="316.6470588235294" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-12" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-12" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-759.1192787223081" y="296.6470588235294" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-13" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/LaptopL.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-13" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/device/LaptopL.png;" parent="1" vertex="1">
           <mxGeometry x="-653.5903019062339" y="334.88235294117646" width="22.35284904688305" height="34.70588235294118" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-14" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/DI.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-14" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/device/DI.png;" parent="1" vertex="1">
           <mxGeometry x="-624.47" y="316.65" width="25.08" height="23.35" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-15" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/stereoDI.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-15" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/device/stereoDI.png;" parent="1" vertex="1">
           <mxGeometry x="-581.7674734672848" y="312.52941176470586" width="20.5881504379186" height="31.176470588235293" as="geometry" />
         </mxCell>
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-16" value="Click" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -67,106 +67,106 @@
         <mxCell id="s05ltgYdW4IM1Vw1v8kq-17" value="Program" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-605.6515486862442" y="282.5282352941177" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/eighttens.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/bass/eighttens.png;" parent="1" vertex="1">
           <mxGeometry x="-508.8261926841834" y="281.6470588235294" width="44.117465224111285" height="48.82352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-20" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-20" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
           <mxGeometry x="-529.7084595569294" y="317.52941176470586" width="29.411643482740857" height="31.176470588235293" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-22" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-22" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-510.002658423493" y="428.4117647058824" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-23" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-23" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-520.5908500772797" y="386.05882352941177" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-24" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/bass/Beguitarist.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-24" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/bass/Beguitarist.png;" parent="1" vertex="1">
           <mxGeometry x="-504.1203297269449" y="355.47058823529414" width="65.88208140133952" height="38.82352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-25" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/DI.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-25" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/device/DI.png;" parent="1" vertex="1">
           <mxGeometry x="-471.7675218959299" y="332.82352941176475" width="17.058753219989697" height="15.882352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-21" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-21" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
           <mxGeometry x="-498.2380010303966" y="379" width="29.411643482740857" height="65.88235294117648" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-26" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/NordStage88.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-26" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/keyborad/NordStage88.png;" parent="1" vertex="1">
           <mxGeometry x="-1077.3532612055642" y="379.7352941176471" width="76.47027305512623" height="31.176470588235293" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-29" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-29" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-1016.7652756311179" y="397.97058823529414" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/device/stereoDI.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/device/stereoDI.png;" parent="1" vertex="1">
           <mxGeometry x="-1010.0041112828438" y="345.6217647058823" width="20.5881504379186" height="31.176470588235293" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-27" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/keyborad/keyboardist.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-27" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/keyborad/keyboardist.png;" parent="1" vertex="1">
           <mxGeometry x="-1060.000391550747" y="347.97058823529414" width="41.76453374549202" height="39.411764705882355" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-30" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Left_Vocal.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-30" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/Left_Vocal.png;" parent="1" vertex="1">
           <mxGeometry x="-1075.5885625965998" y="362.0882352941177" width="35.29397217928903" height="77.64705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-1050.8827820710974" y="417.97058823529414" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-34" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/egt/marshall.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-34" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/egt/marshall.png;" parent="1" vertex="1">
           <mxGeometry x="-356.4738794435857" y="288.55882352941177" width="40.58806800618238" height="35.88235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-35" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/egt/eguitarist.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-35" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/egt/eguitarist.png;" parent="1" vertex="1">
           <mxGeometry x="-358.9738691396187" y="347.97058823529414" width="62.940917053065434" height="45.88235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-36" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-36" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/gt_stand/guitarstand.png;" parent="1" vertex="1">
           <mxGeometry x="-380.2973106646058" y="310.32352941176475" width="29.411643482740857" height="31.176470588235293" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/K&amp;Mstand.png;" parent="1" vertex="1">
           <mxGeometry x="-352.20919113858827" y="366.79411764705884" width="29.411643482740857" height="65.88235294117648" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-38" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-38" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-363.67973209685726" y="417.0882352941177" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-372.79734157650694" y="371.5" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-40" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/BoomLshortL.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-40" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/BoomLshortL.png;" parent="1" vertex="1">
           <mxGeometry x="-332.944564657393" y="317.97058823529414" width="38.235136527563114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-41" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Girl.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-41" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/artist/Girl.png;" parent="1" vertex="1">
           <mxGeometry x="-215.0038742916022" y="323.2647058823529" width="47.05862957238537" height="48.23529411764706" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-42" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/artist/Man1.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-42" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/artist/Man1.png;" parent="1" vertex="1">
           <mxGeometry x="-255.0037094281298" y="328.8529411764706" width="28.82341061308604" height="37.05882352941177" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-43" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_Vocal.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-43" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/Center_Vocal.png;" parent="1" vertex="1">
           <mxGeometry x="-246.76844925296234" y="350.9117647058823" width="16.47052035033488" height="58.82352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-44" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/mic_stand/Center_Vocal.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-44" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/mic_stand/Center_Vocal.png;" parent="1" vertex="1">
           <mxGeometry x="-199.70981968057697" y="350.9117647058823" width="16.47052035033488" height="58.82352941176471" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-45" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-45" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-174.41580628541988" y="355.61764705882354" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-46" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-46" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/IEMwired.png;" parent="1" vertex="1">
           <mxGeometry x="-230.29792890262752" y="355.61764705882354" width="20.5881504379186" height="31.764705882352942" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-47" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsLA.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-47" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/music_stand/standw2lampsLA.png;" parent="1" vertex="1">
           <mxGeometry x="-177.9452035033487" y="391.94117647058823" width="29.999876352395674" height="34.11764705882353" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-49" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/music_stand/standw2lampsLA.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-49" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/music_stand/standw2lampsLA.png;" parent="1" vertex="1">
           <mxGeometry x="-231.47439464193712" y="391.94117647058823" width="29.999876352395674" height="34.11764705882353" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-50" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/singer/singer.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-50" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/singer/singer.png;" parent="1" vertex="1">
           <mxGeometry x="-616.1786913961876" y="520.7647058823529" width="40.529244719216905" height="61.1764705882353" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-52" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/equipment/LED_Wall.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-52" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/equipment/LED_Wall.png;" parent="1" vertex="1">
           <mxGeometry x="-1111.7648840803708" y="187.23529411764707" width="1033.8192684183412" height="54.11764705882353" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-53" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-53" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-636.5315486862442" y="587.8235294117646" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-54" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-54" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-583.2376506955177" y="587.8235294117646" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-55" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-55" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-843.8248119526017" y="587.8235294117646" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="s05ltgYdW4IM1Vw1v8kq-56" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://raw.githubusercontent.com/Chiunownow/StagePlotPirate/main/src/img/monitor/Wedge.png;" parent="1" vertex="1">
+        <mxCell id="s05ltgYdW4IM1Vw1v8kq-56" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.jsdelivr.net/gh/Chiunownow/StagePlotPirate/src/img/monitor/Wedge.png;" parent="1" vertex="1">
           <mxGeometry x="-372.79734157650694" y="587.8235294117646" width="23.529314786192685" height="22.941176470588236" as="geometry" />
         </mxCell>
         <mxCell id="JlUNiJs5qeLFTndYJPpO-6" value="" style="group" parent="1" vertex="1" connectable="0">
